@@ -3,10 +3,6 @@
 This is the Railsbridge Boston cookbook, which includes various "How to" and
 planning documents.
 
-## Upcoming Workshop
-
-[Coordination-for-January-2015-Workshop](./Coordination-for-January-2015-Workshop.md)
-
 ## Workshop Task Descriptions
 
 [Task Descriptions](./Task-Descriptions.md): What jobs need doing to make a workshop happen.
@@ -35,9 +31,9 @@ Please direct interested people to the signup page. It ensures that they don't g
 
 ## Past Workshops
 
-* [Coordination-for-September-2014-Workshop](./Coordination-for-September-2014-Workshop.md)
-* [Coordination-for-May-2014-Workshop](./Coordination-for-May-2014-Workshop.md)
-* [Coordination-for-Jan-2014-Workshop](./Coordination-for-Jan-2014-Workshop.md)
-* [Coordination-for-Oct-2013-Workshop](./Coordination-for-Oct-2013-Workshop.md)
-* [Coordination-for-June-2013-Workshop](./Coordination-for-June-2013-Workshop.md)
-* [Lessons-Learned-June-2013-Workshop](./Lessons-Learned-June-2013-Workshop.md)
+* [September 2014](./past-workshops/coordinating-2014-september.md)
+* [May 2014](./past-workshops/coordinating-2014-may.md)
+* [January 2014](./past-workshops/coordinating-2014-january.md)
+* [October 2013](./past-workshops/coordinating-2013-october.md)
+* [June 2013](./past-workshops/coordinating-2013-june.md)
+* [June 2013: Lessons Learned](./past-workshops/lessons-learned-2013-june.md)
