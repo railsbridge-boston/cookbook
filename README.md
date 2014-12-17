@@ -21,13 +21,17 @@ planning documents.
 
 ## Signup links
 
-* Students and TAs can apply to the workshop from [the RailsBridge Boston
-  homepage](http://www.railsbridgeboston.org/). The signup link is removed when
-  registration is closed.
+Students and TAs can apply to the workshop from [the RailsBridge Boston
+homepage](http://www.railsbridgeboston.org/). The signup link is removed when
+registration is closed.
 
-Please direct interested people to the signup page. It ensures that they don't get lost in the shuffle.
+Please direct interested people to the signup page. It ensures that they don't
+get lost in the shuffle.
 
-* We keep [an announcement list](http://eepurl.com/vwrQT) for people who want to know about upcoming workshops. If someone can't make it to this one, direct them there.
+We keep [an announcement list][list] for people who want to know about upcoming
+workshops. If someone can't make it to this one, direct them there.
+
+[list]: http://railsbridgeboston.us6.list-manage.com/subscribe?u=1b4272afae4569dec6efb74bb&id=1ec91857a1
 
 ## Past Workshops
 
