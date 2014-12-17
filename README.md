@@ -5,19 +5,21 @@ planning documents.
 
 ## Workshop Task Descriptions
 
-[Task Descriptions](./Task-Descriptions.md): What jobs need doing to make a workshop happen.
+[Task Descriptions](./task-descriptions.md): What jobs need doing to make a workshop happen.
 
 ## How-Tos
 
-[Catering and venue](./How-To:-Catering-And-Venue.md)
+[Catering and venue](./catering-and-venue.md)
 
-[Sponsorship](./Sponsorship.md): for sponsors
+[Sponsorship](./sponsorship.md): for sponsors
 
-[Registration](./Registration-How-To.md)
+[Set up Eventbrite and handle registration](./how-to-set-up-registration.md)
 
-[Setup checklist](./Setup-checklist.md) - what to have ready to go on Friday
+[What to do on Friday](./friday.md)
 
-[Instructor Information](./Instructor-Information.md)
+[Instructions to TAs](./TA-instructions.md)
+
+[Update the instructors list](./update-instructors-list.md)
 
 ## Signup links
 
@@ -32,6 +34,10 @@ We keep [an announcement list][list] for people who want to know about upcoming
 workshops. If someone can't make it to this one, direct them there.
 
 [list]: http://railsbridgeboston.us6.list-manage.com/subscribe?u=1b4272afae4569dec6efb74bb&id=1ec91857a1
+
+## Other
+
+[Useful links](./useful-links.md)
 
 ## Past Workshops
 

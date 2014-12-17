@@ -1,19 +1,20 @@
-October 2013 will be our second time using EventBrite for registration.  Please update this page as we learn from experience.
-
 ## CREATE AN EVENTBRITE EVENT
-1. This can be done well in advance; EventBrite keeps drafts private until you make them live.
+
+1. This can be done well in advance; EventBrite keeps drafts private until you
+   make them live.
 
 2. Ask an organizer for the Railsbridge Eventbrite account login information.
 
-3. Copy the event page from the last workshop (http://help.eventbrite.com/customer/portal/articles/426069-copy-an-event-page)
+3. Copy the event page from the last workshop
+   (http://help.eventbrite.com/customer/portal/articles/426069-copy-an-event-page)
 
 4. Update the relevant information for the new workshop: *dates*, *location*,
-*number of tickets* available.
+   *number of tickets* available.
 
-Note that the event dates appear in several places, including the confirmation
-email text. The format for the custom URL is: railsbridgeboston[month and year
-of event].eventbrite.com.  For the Ruby workshop, be super-explicit that it's a
-mostly self-paced tutorial and that it doesn't include Rails.
+  Note that the event dates appear in several places, including the confirmation
+  email text. The format for the custom URL is: railsbridgeboston[month and year
+  of event].eventbrite.com.  For the Ruby workshop, be super-explicit that it's a
+  mostly self-paced tutorial and that it doesn't include Rails.
 
 5. Update the Order Confirmation page with the same info.
 

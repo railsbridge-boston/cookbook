@@ -1,4 +1,4 @@
-## Various Links
+## Useful Links
 
 [Blazing The Trail For Female Programmers](http://www.npr.org/blogs/alltechconsidered/2013/04/29/178810467/blazing-the-trail-for-female-programmers) interview to Sarah Allen on NPR
 
