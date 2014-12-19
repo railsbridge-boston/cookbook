@@ -3,6 +3,10 @@
 This is the Railsbridge Boston cookbook, which includes various "How to" and
 planning documents.
 
+## Current Workshop
+
+[January 2015](./coordinating-2015-january.md)
+
 ## Workshop Task Descriptions
 
 [Task Descriptions](./task-descriptions.md): What jobs need doing to make a workshop happen.
