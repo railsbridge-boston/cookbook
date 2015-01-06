@@ -29,10 +29,10 @@ Help us complete the wiki page for [Task-Descriptions](./Task-Descriptions.md).
 
       |Registered|Attended
 :-----|---------:|--------:
-Women | 78 |
-Men   | 8 |
-Other | 1 |
-**Total** | 87 |
+Women | 78 | 44
+Men   | 8 | 4
+Other | 1 | 1
+**Total** | 87 | 49
 
 
 
