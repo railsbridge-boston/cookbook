@@ -9,9 +9,9 @@ Dates: September 19-20, NERD Center
 * Check-in: **[Janet Riley](https://github.com/janetriley)**
 * [Installfest]: **[Decklin Foster](https://github.com/decklin)**
 * [Teaching staff & lecture coordination]: **Margaret Scott**
-* e-books and Goodies: TBD
-* [Survey & post-workshop email]: TBD
-* [Post-workshop writeup]: TBD
+* e-books and Goodies: Melissa Xie
+* [Survey & post-workshop email]: Melissa Xie
+* [Post-workshop writeup]: Sherry Seibel
 
 Help us complete the wiki page for [Task-Descriptions](./Task-Descriptions.md).
 
