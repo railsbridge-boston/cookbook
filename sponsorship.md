@@ -19,11 +19,23 @@ at the [prospectus].
 [prospectus]: http://railsbridgeboston.org/sponsorship_prospectus.pdf
 
 # Financial Logistics
-RailsBridge Boston is working with [Bridge Foundry](https://atrium.schoolfactory.org/bridgefoundry/dashboard). Bridge Foundry was
-started by the RailsBridge San Francisco community in order to provide infrastructure for outreach programs in technology.
+As of December 2013, we've moved to using [Bridge Foundry] to handle our
+financials, as well as that of other RailsBridge chapters.
 
-As a volunteer organization, we found the process for creating a 501(c)3 to be too long (two years on average).  We want to make donations tax deductible for our sponsors,  as well as ensure our financial processes remain smooth as we grow the group of volunteers organizing workshops.
+Bridge Foundry is a nonprofit group, started by the RailsBridge San Francisco
+community, that promotes outreach programs in technology and assists with the
+financial infrastructure.
 
-Sponsor donations are made to Bridge Foundry, and Bridge Foundry makes the funds available to us through a debit card. This is simpler than our old process, which was to have sponsors pay vendors directly.
+As a volunteer organization, we found the process for creating a 501(c)3 to be
+too long (two years on average). We wanted to make donations tax deductible for
+our sponsors, as well as ensure our financial processes remain smooth as we
+grow the group of volunteers organizing workshops.
 
-You can read more about [Bridge Foundry's financial process here](https://atrium.schoolfactory.org/bridgefoundry/node/109312).
+Sponsor donations are made to Bridge Foundry, and Bridge Foundry makes the funds
+available to us through a debit card. This is simpler than our old process,
+which was to have sponsors pay vendors directly.
+
+You can read more about Bridge Foundry's financial process [here].
+
+[Bridge Foundry]: http://bridgefoundry.org/
+[here]: https://atrium.schoolfactory.org/bridgefoundry/node/109312
