@@ -1,16 +1,22 @@
-# Sponsors!
+# Sponsors
 
-RailsBridge Boston has been holding free workshops, starting in August 2012, in order to introduce more women to web development with Ruby on Rails, with a long term goal of increasing the number of women in the Ruby community and the software development industry.
+Since August 2012, RailsBridge Boston has been running free workshops to
+introduce women to programming in Ruby and web development with Ruby on Rails.
+The long term goal was to increase the number of women in the Ruby community and
+the software development industry.
 
-This is made possible through a number of great volunteers and sponsors- we have held numerous workshops so far at the Microsoft NERD Center, Harvard Law School, MIT Stata Center, and the Intelligent.ly office, with very positive feedback from participants.
+This is made possible through a number of great volunteers and sponsors. We have
+held numerous workshops so far at the Microsoft NERD Center, Harvard Law School,
+MIT Stata Center, and the Intelligent.ly office, with very positive feedback
+from participants.
 
-Each workshop needs about 10 sponsors, each of whom would donate about $400.00 in order to provide food for Friday night and all Saturday.
+Each workshop needs about 5-10 sponsors, each of whom would contribute towards
+food and drinks for the entire workshop and the post-workshop celebration.
 
-Each sponsor can participate by calling in a payment information to one of the specified vendors a few days before the workshop. Unfortunately, this is not tax-deductible, but we are working on solving this for future workshops.
+For more information on sponsorship and the current options, please take a look
+at the [prospectus].
 
-As a sponsor, your company logos will be displayed on our website when you are invited to attend our Friday night session, as well as attend the after-party on Saturday . You'll be able to introduce yourself to new talents, and remind the 20+ experienced TAs of your organization's commitment to a more diverse workforce!
-
-Thank you for your past and on-going sponsorship.
+[prospectus]: http://railsbridgeboston.org/sponsorship_prospectus.pdf
 
 # Financial Logistics
 RailsBridge Boston is working with [Bridge Foundry](https://atrium.schoolfactory.org/bridgefoundry/dashboard). Bridge Foundry was
