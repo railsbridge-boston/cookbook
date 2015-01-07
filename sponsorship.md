@@ -21,15 +21,3 @@ As a volunteer organization, we found the process for creating a 501(c)3 to be t
 Sponsor donations are made to Bridge Foundry, and Bridge Foundry makes the funds available to us through a debit card. This is simpler than our old process, which was to have sponsors pay vendors directly.
 
 You can read more about [Bridge Foundry's financial process here](https://atrium.schoolfactory.org/bridgefoundry/node/109312).
-
-
-***
-
-# Step-wise Guide to Sponsoring the Most Awesome Workshop Ever!
-## Step 1 ) Read the [Prospectus page](http://www.railsbridgeboston.org/prospectus.pdf)
-## Step 2) Contact the RailsBridge Boston sponsorship coordinator at railsbridgeboston@gmail.com . We'll work with you to get your logo for our website.
-## Step 3) [Send a check to Bridge Foundry](https://atrium.schoolfactory.org/bridgefoundry/node/108426)
-## Step 4) Attend the Friday Installfest! We invite sponsors to introduce themselves before the InstallFest starts.
-## Step 5) Feel free to stay throughout the workshop, otherwise, come back for the after-party at the end of the Saturday session.
-
-Thank you again for your support.
