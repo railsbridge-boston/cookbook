@@ -21,7 +21,7 @@ planning documents.
 
 [What to do on Friday](./friday.md)
 
-[Instructions to TAs](./TA-instructions.md)
+[Preparation Guide for TAs](./ta-guide.md)
 
 [Update the instructors list](./update-instructors-list.md)
 
