@@ -4,20 +4,18 @@ First off though, thanks for volunteering and making this happen. Over the years
 of running these workshops, we've consistently gotten feedback on how amazing
 the TA's were. We're very excited to have you be a part of this experience.
 
-Your main guide is of course the website:
-    http://www.railsbridgeboston.org/
+For machine set-up on Friday, please review the installfest guide so you'll be
+prepared to help our students: http://docs.railsbridgeboston.org/installfest
 
-To start off, there is a nice rundown of logistics and schedule you should be familiar with:
-    http://www.railsbridgeboston.org/workshop-info
+More importantly, please familiarize yourself with the Saturday curriculum:
+* Ruby: http://docs.railsbridgeboston.org/ruby/
+* Rails: http://docs.railsbridgeboston.org/intro-to-rails/
 
-For machine set-up on Friday, please review the installfest guide so you'll be prepared to help our students:
-    http://www.railsbridgeboston.org/installfest
+We recommend that you go through the steps at least once and build everything
+out so that you can get an idea as to what kind of questions may pop up.
 
-More importantly, if you haven't already, please work through the Saturday curriculum:
-    http://www.railsbridgeboston.org/curriculum/curriculum_toc
-
-Many of you have been through this before, but even so, I know I'll be at least reading through again.
-I recommend you at least once actually go through the steps and build out the app.
+Many of you have been through this before, but do it anyway just in case there
+have been any significant changes.
 
 You may also want to get some helpful advice and information about being a TA.
 Railsbridge has a page of resources and tips for workshop teachers:
