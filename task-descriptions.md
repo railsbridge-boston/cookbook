@@ -7,7 +7,8 @@
 * [Teaching Staff](#teaching-staff)
 * [e-books and Giveaways](#e-books-and-giveaways)
 * [Sponsorships](#sponsorships)
-* [Venue & Catering](#venue--catering)
+* [Venue](#venue)
+* [Catering](#catering)
 * [Registration](#registration)
 * [Childcare](#childcare)
 * [Feedback Survey & Post-workshop Email](#feedback-survey-and-post-workshop-email)
@@ -153,10 +154,19 @@ or minimum drink/appetizer purchase amount depending on the venue.
 
 [Bridge Foundry]: http://bridgefoundry.org/
 
-## Venue & Catering
-Time commitment: ~10 hours, starting 2 weeks before the workshop, ending Saturday at lunch
+## Venue
 
-See [How-To:-Catering-And-Venue](./How-To:-Catering-And-Venue.md)
+Time commitment: 3-4 hours, find and book 4-6 months in advance and then
+follow-up closer to workshop dates
+
+See [How-To: Venue](./venue.md)
+
+## Catering
+
+Time commitment: 3-4 hours, check for dietary restrictions, find caterers, place
+orders
+
+See [How-To: Catering](./catering.md)
 
 ## Registration
 Time commitment: ~20 hours, starting 3 weeks before the workshop, plus be present Friday night

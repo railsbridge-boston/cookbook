@@ -13,7 +13,9 @@ planning documents.
 
 ## How-Tos
 
-[Catering and venue](./catering-and-venue.md)
+[Venue](./venue.md)
+
+[Catering](./catering.md)
 
 [Set up Eventbrite and handle registration](./how-to-set-up-registration.md)
 
