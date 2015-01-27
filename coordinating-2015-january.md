@@ -44,7 +44,7 @@ like programming.
 years doing technical and application support for software companies. Danny has
 also done some programming with Java and Unix shell scripting. He currently
 lives with his wife and two dogs in Wayland, MA.
-- *Thomas Mayfiled*: Thomas Mayfield is a software engineer who's been writing
+- *Thomas Mayfield*: Thomas Mayfield is a software engineer who's been writing
 code in whatever languages and frameworks he can get his grubby hands on for the
 better part of a decade. He's one of the odd ducks who's been using Ruby much
 longer than he's been hacking in Rails, and is super excited to help new folks
