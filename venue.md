@@ -43,7 +43,7 @@ Find and book a bar/restaurant for our after-party at least a week in advance.
 
 Venue criteria:
 * Easily accessible via walking
-* Holds at least 30-40 people
+* Holds at least 20-30 people
 
 Places we've gone to previously:
 * Kendall Square area
