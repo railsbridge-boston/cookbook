@@ -11,6 +11,7 @@ Location: General Assembly
 * Catering: Mary Ashton Inglis
 * Installfest: Decklin Foster
 * Teaching staff: Margaret Scott
+* Photography: Andy Atkinson
 
 ### TA's
 
