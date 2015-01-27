@@ -16,6 +16,8 @@
 * [Post-workshop blog post/write-up](#post-workshop-blog-postwrite-up)
 
 ## Lead Organizers
+Time commitment: substantial, 40 hours or more per workshop.
+
 One or two per workshop. 
 
 The lead organizer's main job is to assign all the other roles to
