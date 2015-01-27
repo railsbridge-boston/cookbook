@@ -1,4 +1,5 @@
 # Table of Contents
+* [Lead Organizers](#lead-organizers)
 * [Email inquiries](#email-inquiries)
 * [Social media](#social-media)
 * [Workshop MC](#workshop-mc)
@@ -13,6 +14,15 @@
 * [Childcare](#childcare)
 * [Feedback Survey & Post-workshop Email](#feedback-survey-and-post-workshop-email)
 * [Post-workshop blog post/write-up](#post-workshop-blog-postwrite-up)
+
+## Lead Organizers
+One or two per workshop. 
+
+The lead organizer's main job is to assign all the other roles to
+trustworthy people and to make sure everyone does their job in timely
+fasion.  Keep in regular contact with all the volunteer organizers to
+see how everything is proceeding. If there is a problem or a bottleneck
+somewhere, intervene to help out.
 
 ## Email inquiries
 Time commitment: 30 minutes per week, ongoing
