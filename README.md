@@ -1,6 +1,6 @@
-# Railsbridge Boston Cookbook
+# RailsBridge Boston Cookbook
 
-This is the Railsbridge Boston cookbook, which includes various "How to" and
+This is the RailsBridge Boston cookbook, which includes various "How to" and
 planning documents.
 
 ## Current Workshop

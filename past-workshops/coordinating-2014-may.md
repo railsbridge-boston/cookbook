@@ -92,7 +92,7 @@ Not sure||
 
 13. Julissa Jansen is a Launch Academy alum. She got into Ruby on Rails after attending the RailsBridge Boston workshop in October. She loves to watch the Red Sox win and co-hosting Boston Ruby Women meetups.
 
-14. Kelly Savietta is a web developer at 3Play Media. She is a Launch Academy and Railsbridge alum and is super excited to teach others the joy of coding!
+14. Kelly Savietta is a web developer at 3Play Media. She is a Launch Academy and RailsBridge alum and is super excited to teach others the joy of coding!
 
 15. Lisa-Maria Mehta is a (very) recent graduate of Metis RoR bootcamp. She is happy to be here at RailBridge helping out, especially as she has very fresh memories of what you will be going through. Lisa-Maria is actively seeking work in the Rails community here in Boston.
 

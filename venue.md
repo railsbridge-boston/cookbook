@@ -33,7 +33,7 @@ text file. Something like this:
       > from 9:30am-5pm in the Mann/Sampson/Paul room
 
   * Send it as a text file attachment to nerdeal@microsoft.com, CC'ing Leah (or
-our NERD center contact) and the Railsbridge organizers.
+our NERD center contact) and the RailsBridge organizers.
   * The list will provide a final headcount for catering.
 * Everyone must bring a photo ID, per NERD center policy.
 

@@ -3,7 +3,7 @@
 1. This can be done well in advance; EventBrite keeps drafts private until you
    make them live.
 
-2. Ask an organizer for the Railsbridge Eventbrite account login information.
+2. Ask an organizer for the RailsBridge Eventbrite account login information.
 
 3. Copy the event page from the last workshop
    (http://help.eventbrite.com/customer/portal/articles/426069-copy-an-event-page)
@@ -52,7 +52,7 @@ NOTE: This can be done ahead of time and saved until the announcement can be sen
 5. Enter/confirm the campaign details.
       * Campaign name = [Month/year of the workshop] Workshop Announcement
       * From Name = RailsBridge Boston
-      * Email subject = Next Railsbridge Boston Workshop - Applications Open
+      * Email subject = Next RailsBridge Boston Workshop - Applications Open
       * Reply-to email address = railsbridgeboston@gmail.com
       * Personalize the To: field = *|FNAME|*
       * Track opens
@@ -75,8 +75,8 @@ one or the Rails one.
 1. Use the campaign you created in MailChimp to notify the Upcoming Workshops mailing list about the new workshop.
 2. Announce the workshop to the rest of the world:
      * Update the front page of the RailsBridge Boston site. Work with an organizer to push to heroku if necessary.
-     * Ask the Twitter organizer or the person in charge of the RailsbridgeBos account to post
-     * Send a message to relevant groups (DevChix, Boston Ruby, Railsbridge. Possibly: The Girl Develop It and Womens Coding Collective.)
+     * Ask the Twitter organizer or the person in charge of the RailsBridgeBos account to post
+     * Send a message to relevant groups (DevChix, Boston Ruby, RailsBridge. Possibly: The Girl Develop It and Womens Coding Collective.)
 
 ## MANAGE REGISTRATION
 1. Plan to spend 30-60 minutes on email a day for the first few days after registration opens. The questions will tend to be "it's sold out, can I bring a guest?", "is this workshop a good fit?", "I'm on the waitlist, am I in?", and "please add this sponsor's employee to the list". It tapers off quickly. (_Note: there has been less email overhead with Eventbrite. Update this estimate if the trend continues._)

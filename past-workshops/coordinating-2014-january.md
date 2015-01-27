@@ -133,13 +133,13 @@ is the founder and technical lead for Chatalyst. Jon has previously worked as a 
 is a young Rails developer who enjoys creating applications that help people stay productive. He frequently publishes content on his blog at justusunlimited.com and enjoys writing prose and poetry in his spare time.
 
 22. Kelly Savietta
-is a junior web developer, learning Ruby on Rails at Launch Academy. She has a BA degree from Oberlin College in Philosophy and Psychology. She is a Railsbridge alum and is super excited to teach others the joy of coding!
+is a junior web developer, learning Ruby on Rails at Launch Academy. She has a BA degree from Oberlin College in Philosophy and Psychology. She is a RailsBridge alum and is super excited to teach others the joy of coding!
 
 23. Keun-Hwi Lee
 Former Peace Corps Volunteer and Texas native. Now a web developer at Vermonster!
 
 24. Kevin Quach
-I graduated from Launch Academy a couple months ago, having had zero programming experience prior to that. I am now working as a Jr. developer and product manager at WEGO Health. I've TA'ed at Railsbridge before, think it's fantastic, and want to come back for more!
+I graduated from Launch Academy a couple months ago, having had zero programming experience prior to that. I am now working as a Jr. developer and product manager at WEGO Health. I've TA'ed at RailsBridge before, think it's fantastic, and want to come back for more!
 
 25. Leslie Gerhat
 is a teaching assistant. She is currently a software product manager at athenahealth, but she wants to learn to make web applications herself. Leslie didn't really touch programming until she started her undergraduate degree in computer engineering at Olin College in Needham, MA. Leslie went through RailsBridge Boston in October, and is now enrolled in the Ruby on Rails track at Thinkful, a part-time, online dev bootcamp.
@@ -172,7 +172,7 @@ is an alumni of Startup Institute Boston, and is currently working as a software
 A Programmer at heart that tried to do everything but programming in life only to realize writing code to solve problems actually makes me happy.
 
 35. Tracy Moscato
-is a graduate of the first Railsbridge and a developer for WomenLEAD, Inc.
+is a graduate of the first RailsBridge and a developer for WomenLEAD, Inc.
 
 
 ## Sponsors

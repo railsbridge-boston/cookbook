@@ -66,13 +66,13 @@ Not sure||
 
 - *Sam Backus*: Sam has been writing software for 5 years.  He learned Ruby and Ruby on Rails in Spring 2013 at Startup Institute Boston. He is working at his dream job at Cyrus Innovation as a software engineer and eXtreme Programming advocate.  His hobbies include biking, yoga and nerdy boardgames.
 - *Gabe Berke-Williams*: Gabe Berke-Williams enjoys writing Ruby and teaching a bootcamp at thoughtbot. In his free time, he likes to eat ginger-flavored things and watch New Girl.
-- *Rachel Bookhout*: Rachel got her start with Ruby through Railsbridge and has never looked back. She is currently attending Launch Academy.
-- *Daniel Choi*: Dan runs two software companies he co-founded in Boston. He is, proudly, a former co-organizer of Railsbridge Boston. He is serious about programming.
+- *Rachel Bookhout*: Rachel got her start with Ruby through RailsBridge and has never looked back. She is currently attending Launch Academy.
+- *Daniel Choi*: Dan runs two software companies he co-founded in Boston. He is, proudly, a former co-organizer of RailsBridge Boston. He is serious about programming.
 - *Chris Dolan*: Chris is a software engineer at LevelUp. He first started programming when he was 13, and hasn't stopped since. He enjoys guitar, comics, and skim boarding. Chris is also a professional shoelace knot maker.
 - *Stephen Eckenrode*: Stephen is a self-taught developer working at an EdTech startup downtown and is excited to help teach others to code!
 - *Amelia Fannin*: Amelia is a ruby programmer making my first steps in a career change from classical music.  I love a good challenge, puzzles, gardening, and cooking.
 - *Decklin Foster*: Decklin Foster is an operations engineer at ActBlue. He got his first shell account in 1994 and has been using some flavor of UNIX ever since. He also loves Python, Clojure, and answering tricky Git questions. He lives in Watertown, MA with his wife and two cats.
-- *Alex Higuera*: Alex Higuera is a software engineer at CraveLabs, and a Railsbridge alum.  Her background is in electrical engineering, cultural anthropology, and neuroscience.  She is a native New Yorker living in Cambridge, MA.
+- *Alex Higuera*: Alex Higuera is a software engineer at CraveLabs, and a RailsBridge alum.  Her background is in electrical engineering, cultural anthropology, and neuroscience.  She is a native New Yorker living in Cambridge, MA.
 - *Julissa Jansen*: Rails developer at ConstantContact. RailsBridge and Launch Academy alum.
 - *Insung Lee*: Insung majored in Informatics at Indiana Unviersity, and recent graduate from Dev Bootcamp NYC. I love helping out other people, and meet awesome people who share same interest.
 - *Shuang Liu*: Shuang started coding for fun in Python in 2013, is now an apprentice at Launch Academy.
@@ -81,7 +81,7 @@ Not sure||
 - *Anne Pope*: Anne is currently a student at Launch Academy, a 10-week programming bootcamp in Boston. She originally hails from Larchmont, NY.
 - *Carly Pulver*: Currently on the path to becoming a web developer at Launch Academy. Likes trivia, singing and chihuahuas.
 - *Heath Ritchie*: Heath Ritchie is a developer at Green River. He's been working with Ruby on Rails full-time since last year. He spent a decade working in the investment management business before changing careers, and has found programming to be a lot more fun.
-- *Lorrayne Rocha*: Geek Extraordinaire. Full time QA Engineer by day. Part time magical girl and superheroine by night. Lover of love and justice. Railsbridge alumnus and Launch Academy graduate.
+- *Lorrayne Rocha*: Geek Extraordinaire. Full time QA Engineer by day. Part time magical girl and superheroine by night. Lover of love and justice. RailsBridge alumnus and Launch Academy graduate.
 - *Margaret Scott*: Margaret Scott is a Cantabrigian, cat lover and adventure game enthusiast. Margaret was a Software Project Manager when she attended RailsBridge in 2012. Since then she's contributed to RailsBridge and with one year of Rails experience under her belt at an AdTech startup, she's looking for new opportunities.
 - *Sherry Seibel*: Sherry is a Metis alum who enjoys Ruby on Rails and helping others. She is also an event host for the Boston chapter of Women Who Code. In her free time she enjoys brain teasers and singing along with the radio.
 - *Rachael Serur*: Rachael Serur is a software developer at Barbershop Labs with career roots in psychological research and a lifelong passion for design, illustration, and now UX/UI. She is a summer 2014 Launch Academy graduate!

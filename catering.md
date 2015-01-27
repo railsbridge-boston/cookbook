@@ -4,7 +4,7 @@ Catering is the biggest budget item for RailsBridge and a major part of the
 event. We typically do the following, based on 80-90 people at the workshop:
 
 * Friday night: pizza and drinks - ~$500
-  * Take out the tip from the Railsbridge Boston account with the ATM card
+  * Take out the tip from the RailsBridge Boston account with the ATM card
   * Be at the NERD center when the delivery arrives before Friday night.
 * Saturday daytime: coffee, lunch, snacks - ~$2000 ( TODO: update this amount )
   * AM and PM coffee: Kendall Square Dunkin Donuts - 4 Boxes o' Joe - TODO:
@@ -40,5 +40,5 @@ Work with Melissa for payment.
 
 For the after-party, payment is made right there to the bartender during the
 after-party. There may be a room reservation fee or minimum drink and appetizer
-purchase amount depending on the venue. Use the Railsbridge Boston Bridge
+purchase amount depending on the venue. Use the RailsBridge Boston Bridge
 Foundry debit card.

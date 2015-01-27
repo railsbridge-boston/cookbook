@@ -18,7 +18,7 @@ Many of you have been through this before, but do it anyway just in case there
 have been any significant changes.
 
 You may also want to get some helpful advice and information about being a TA.
-Railsbridge has a page of resources and tips for workshop teachers:
+RailsBridge has a page of resources and tips for workshop teachers:
 http://workshops.railsbridge.org/resources-for-teachers/
 
 ...and a deck you can go through with some more ideas on creating a welcoming
