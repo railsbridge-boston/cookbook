@@ -10,36 +10,32 @@ what's off-limits, equipment use, catering, security, etc.
 Venue criteria:
 * Preferably free
 * Holds at least 100 people
-* As easily accessible as possible, e.g. by the T
+* As easily accessible as possible, e.g. by the T, parking availability
 
-For the past few workshops, we've been able to book some space at the [Microsoft
-NERD Center].  We have the space reserved for May 2014 and August 2014 workshops.
+### Microsoft NERD Center
 
-In case of hosting the event at NERD:
-* Work with the location coordinator (nerdconf@microsoft.com).
-* See usage guidelines and the list of [preferred caterers].
-* Provide a list of names of everyone who might be there. It must be submitted 3
-days in advance so they can distribute it to the security desk. Get the TA and
-teaching staff from the teaching coordinator, and attendees and waitlist from
-registration.
-  * The NERD Center is most interested in having a complete list with good
-  * lead time, so
-there's no issue with waitlist being potential attendees.
-  * Include all attendees, organizers, TAs, guests, and waitlist names.
-  * Include the name of the event, dates and room in the body of the email and
-text file. Something like this:
+Many of our workshops have taken place at Microsoft NERD. Here are some
+instructions specific to this venue:
+
+1. Request a space using their [form] *at least* 6 months in advance.
+1. Review usage guidelines and the list of preferred caterers. (They will send
+you a copy or some links to these documents.)
+1. Share any special instructions with the Catering coordinator if applicable.
+1. Provide a list of names of everyone who might be there.
+  * It must be submitted 3 days in advance so they can distribute it to the
+security desk.
+  * Include all attendees, coordinators, TAs, guests, and waitlist names.
+  * Include the name of the event, dates, and room in the body of the email. For
+example.:
 
       > RailsBridge Boston event on 10/4/2013 from 7pm-10pm and 10/5/2013
       > from 9:30am-5pm in the Mann/Sampson/Paul room
 
-  * Send it as a text file attachment to nerdeal@microsoft.com, CC'ing Leah (or
-our NERD center contact) and the RailsBridge organizers.
-  * The list will provide a final headcount for catering.
-* Everyone must bring a photo ID, per NERD center policy.
+  * Send the list as a file attachment to nerdconf@microsoft.com, CC'ing whoever
+our NERD Center contact is and the lead coordinators.
+1. Make sure that we tell everyone to bring a photo ID, per NERD Center policy.
 
-[Microsoft NERD Center]: http://microsoftcambridge.com/eventmanager/
-[preferred caterers]:
-https://www.dropbox.com/s/iii5lhbatpw51lq/Microsoft_NERD_Preferred_Vendors.pdf
+[form]: http://microsoftcambridge.com/eventmanager/
 
 ## After-Party
 
