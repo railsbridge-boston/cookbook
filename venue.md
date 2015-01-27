@@ -39,14 +39,19 @@ our NERD Center contact is and the lead coordinators.
 
 ## After-Party
 
-Find and book a bar/restaurant for our after-party a week in advance if
-possible.  Bars we've used:
-* Meadhall - next to the Marriott - they have an upstairs room that a lot of
-Meetups use
-* Firebrands and Saints - Kendall Square
-* Cambridge Brewing Company ( a bit far from the NERD center - better in warm
-weather )
+Find and book a bar/restaurant for our after-party at least a week in advance.
 
 Venue criteria:
 * Easily accessible via walking
 * Holds at least 30-40 people
+
+Places we've gone to previously:
+* Kendall Square area
+  - Meadhall
+    * 8-minute walk from NERD
+    * they have an upstairs section where many events and Meetups happen
+  - Firebrand Saints
+    * 5-minute walk from NERD
+    * probably the closest restaurant to the NERD Center
+  - Cambridge Brewing Company
+    * 14-minute walk from NERD
