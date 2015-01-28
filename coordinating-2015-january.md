@@ -103,3 +103,6 @@ Cambridge. She is also a Launch Academy and RailsBridge alum!
 - *Judy Nguyen*: Judy is a recent Launch Academy grad who has a passion for
 sharing her knowledge forward. She also enjoys cats, science fiction, and also
 cats (again).
+- *Janet Riley*: Janet Riley is a web applications developer at Cantina
+Consulting.  She enjoys working with beginners and the perspective they bring to
+programming.
