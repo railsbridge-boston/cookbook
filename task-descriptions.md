@@ -16,9 +16,10 @@
 * [Post-workshop blog post/write-up](#post-workshop-blog-postwrite-up)
 
 ## Lead Organizers
-Time commitment: substantial, 40 hours or more per workshop.
+Time commitment: substantial, 40 hours or more per workshop. Organizing starts ~5-6 weeks before a workshop. 
 
 One or two per workshop. 
+Two is recommended: odds are one of you will have heavy work demands at any point during preparation. A second organizer lets you balance the load.
 
 The lead organizer's main job is to assign all the other roles to
 trustworthy people and to make sure everyone does their job in timely
