@@ -5,7 +5,7 @@ planning documents.
 
 ## Current Workshop
 
-[January 2015](./coordinating-2015-january.md)
+[April 2015](./coordinating-2015-april.md)
 
 ## Workshop Task Descriptions
 
@@ -47,6 +47,7 @@ workshops. If someone can't make it to this one, direct them there.
 
 ## Past Workshops
 
+* [January 2015](./past-workshops/coordinating-2015-january.md)
 * [September 2014](./past-workshops/coordinating-2014-september.md)
 * [May 2014](./past-workshops/coordinating-2014-may.md)
 * [January 2014](./past-workshops/coordinating-2014-january.md)
