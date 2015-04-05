@@ -1,17 +1,5 @@
 # Venue
 
-## Workshop
-
-Responsibilities:
-* Book a venue at least 4-6 months in advance
-* Coordinate with venue contact over any logistics when using the space, e.g.
-what's off-limits, equipment use, catering, security, etc.
-
-Venue criteria:
-* Preferably free
-* Holds at least 100 people
-* As easily accessible as possible, e.g. by the T, parking availability
-
 ### Microsoft NERD Center
 
 Many of our workshops have taken place at Microsoft NERD. Here are some
@@ -36,22 +24,3 @@ our NERD Center contact is and the lead coordinators.
 1. Make sure that we tell everyone to bring a photo ID, per NERD Center policy.
 
 [form]: http://microsoftcambridge.com/eventmanager/
-
-## After-Party
-
-Find and book a bar/restaurant for our after-party at least a week in advance.
-
-Venue criteria:
-* Easily accessible via walking
-* Holds at least 20-30 people
-
-Places we've gone to previously:
-* Kendall Square area
-  - Meadhall
-    * 8-minute walk from NERD
-    * they have an upstairs section where many events and Meetups happen
-  - Firebrand Saints
-    * 5-minute walk from NERD
-    * probably the closest restaurant to the NERD Center
-  - Cambridge Brewing Company
-    * 14-minute walk from NERD

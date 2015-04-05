@@ -16,9 +16,9 @@
 * [Post-workshop blog post/write-up](#post-workshop-blog-postwrite-up)
 
 ## Lead Organizers
-Time commitment: substantial, 40 hours or more per workshop. Organizing starts ~5-6 weeks before a workshop. 
+Time commitment: substantial, 40 hours or more per workshop. Organizing starts ~5-6 weeks before a workshop.
 
-One or two per workshop. 
+One or two per workshop.
 Two is recommended: odds are one of you will have heavy work demands at any point during preparation. A second organizer lets you balance the load.
 
 The lead organizer's main job is to assign all the other roles to
@@ -45,40 +45,19 @@ Responsibilities:
 * Monitor feed in case of questions
 
 ## Workshop MC
+
 Time commitment: the full workshop, additional prep at your discretion
 
 Bring enthusiasm and conviction.
 
 Keep an eye on time - allow for flexibility, but also make sure we're moving along.
 
-### Friday night
-* Welcome everyone
-* Brief intro of what to expect this weekend
-* Thank sponsors
- * show logos
- * give special "shout outs" to any organizations that are sponsoring any specific portion of the weekend, e.g. a whole meal, the whole workshop, the after-party, etc.
- * have sponsor representatives do an intro
-* TA introductions - name, what they do and fun fact
-* Go over the plan for the night
- * point them to the pages with instructions
- * make sure the TAs are evenly distributed across the room, especially according OSes
-* Go over any other logistics - e.g. where the bathrooms are, what's off limits (like anything in the NERD Center kitchen), etc.
-
-### Saturday
-* Re-welcome everyone
-* Go over the plan for the day
-* Thank sponsors again
-* Have TAs form small groups
-* Announce meals
-* Mention after-party - how to get there, what is covered, who's sponsoring
-* Lead or encourage frequent stretching in between sections
-* Talk about next steps
-* Encourage connecting with TAs and other attendees
-
 ## Photography
+
 Time commitment: part or all of the workshop; selecting && emailing photos afterward
 
 * Take brilliant pictures.
+* Post them to twitter?
 * Send them to a workshop coordinator to post on the RailsBridge Boston website or on Twitter.
 
 ## Curriculum
@@ -107,6 +86,7 @@ knowledgeable about troubleshooting issues for each OS.
 prepare for coverage accordingly.
 
 ## Teaching Staff
+
 * Recruit around 25-30 awesome teaching assistants, and people to give all the
 mini-lectures.
 * Give the TAs tips on how to do their job well.
@@ -114,6 +94,7 @@ mini-lectures.
 Machine version of the Installfest for their operating system.
 
 ## e-books and Giveaways
+
 Time commitment: ~2 hours, 1-2 weeks before the workshop
 
 O'Reilly has supported us in the past by providing free e-book giveaways to our workshop attendees and TAs.
