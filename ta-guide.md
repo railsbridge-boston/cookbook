@@ -19,11 +19,11 @@ have been any significant changes.
 
 You may also want to get some helpful advice and information about being a TA.
 RailsBridge has a page of resources and tips for workshop teachers:
-http://workshops.railsbridge.org/resources-for-teachers/
+http://www.railsbridge.org/help/teach
 
 ...and a deck you can go through with some more ideas on creating a welcoming
-classroom environment, teaching beginners, etc.
-http://curriculum.railsbridge.org/workshop/teacher_training
+classroom environment, teaching beginners, etc:
+http://docs.railsbridge.org/workshop/more_teacher_training
 
 These workshops are always fun and inspiring. You're going to be a huge help to
 these students who are just getting started with Ruby or Rails.
