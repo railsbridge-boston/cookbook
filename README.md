@@ -112,10 +112,8 @@ that they bring a photo ID, per NERD Center policy.
 
 #### TA organizer
 
-* Remind the TAs about the kind of conduct we expect and how to talk to new
-  programmers. [No feigned surprise][no-fs]!
-
-[no-fs]: https://www.recurse.com/manual#no-feigned-surprise
+Remind the TAs about the kind of conduct we expect and how to talk to new
+programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
 
 #### MC
 
@@ -146,6 +144,11 @@ that they bring a photo ID, per NERD Center policy.
   Installfest
 
 ## Saturday, the big event (Everyone)
+
+#### TA organizer
+
+Remind the TAs about the kind of conduct we expect and how to talk to new
+programmers. Look at our [Saturday TA pep talk](/ta-pep-talk/saturday.md).
 
 #### MC
 
