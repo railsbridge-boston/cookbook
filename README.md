@@ -3,16 +3,14 @@
 This is the RailsBridge Boston cookbook, which includes various "How to" and
 planning documents. This README is the timeline for planning a workshop.
 
-## Constantly (Organizer)
-
-These tasks are not around organizing a specific event - the organizer should
-check in with them reasonably often.
-
 Look in our [private repo][private] for credentials for our GMail/Twitter/etc.
 
 [private]: https://github.com/railsbridge-boston/private
 
-### Answering email
+## Answering email (Organizer)
+
+This is not around  organizing a specific event - the organizer should check in
+with email every so often.
 
 People will have questions, especially as the event approaches and immediately
 after an event.
