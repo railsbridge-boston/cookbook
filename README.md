@@ -7,6 +7,18 @@ Look in our [private repo][private] for credentials for our GMail/Twitter/etc.
 
 [private]: https://github.com/railsbridge-boston/private
 
+Here's a list of who's who:
+
+* Organizer: May change depending on the workshop, ask Melissa Xie if you don't
+  know who it is
+* Venue Coordinator: changes with each workshop, whoever does it should commit
+  to owning the process
+* Registration Coordinator: usually the organizer, again
+* Catering Coordinator: Mash Inglis
+* Sponsorship Coordinator: Julissa Jansen
+* TA Coordinator: Margaret Scott
+* MC: changes with each event. We try to get an MC a few weeks before.
+
 ## Answering email (Organizer)
 
 This is not around  organizing a specific event - the organizer should check in
@@ -57,7 +69,7 @@ document](/sponsorship.md).
 
 ## 5 weeks before (Registration Coordinator)
 
-Set up registration
+Set up registration.
 
 ## 3 weeks before (Registration Coordinator)
 
@@ -67,9 +79,11 @@ Open up registration (all passwords are [here][private]):
 * Announce the workshop to the mailing list
 * Announce the workshop on twitter
 
-[private]: https://github.com/railsbridge-boston/private
+## 2 weeks before (Organizer)
 
-## 1.5 weeks before (Catering)
+Find an MC.
+
+## 1.5 weeks before (Catering Coordinator)
 
 We place catering orders ~1.5 weeks before the workshop. We assume about 100
 people will attend, but double check that number. For more information, see
@@ -133,7 +147,7 @@ Get the following together to bring to the Installfest:
 
 ## Friday Night (everyone)
 
-#### TA organizer
+#### TA Coordinator
 
 Remind the TAs about the kind of conduct we expect and how to talk to new
 programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
@@ -156,7 +170,7 @@ programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
 * Go over any other logistics - e.g. where the bathrooms are, what's off limits
   (like anything in the NERD Center kitchen), etc.
 
-#### Catering
+#### Catering Coordinator
 
 * Be at the NERD center when the delivery arrives before Friday night.
 
@@ -168,7 +182,7 @@ programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
 
 ## Saturday, the big event (Everyone)
 
-#### TA organizer
+#### TA Coordinator
 
 Remind the TAs about the kind of conduct we expect and how to talk to new
 programmers. Look at our [Saturday TA pep talk](/ta-pep-talk/saturday.md).
