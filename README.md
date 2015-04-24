@@ -42,6 +42,11 @@ details form. Here are some things you can use to fill out that form:
   two-day workshop that Ruby on Rails to women in the Boston community.
 * Event logo: Use [this file](/logos/logo.png).
 
+## 8 weeks before (Sponsorship Coordinator)
+
+Start emailing potential sponsors. There's more in the [sponsorship
+document](/sponsorship.md).
+
 ## 5 weeks before (Registration Coordinator)
 
 Set up registration
