@@ -42,6 +42,14 @@ details form. Here are some things you can use to fill out that form:
   two-day workshop that Ruby on Rails to women in the Boston community.
 * Event logo: Use [this file](/logos/logo.png).
 
+You can create a *private* (password-protected) copy of a past Eventbrite event by clicking [this link].
+
+To make it private, scroll down to "3. Additional Settings", click "Private
+page", and add a password. Now you have something to fill in the "Event
+registration link" with.
+
+[this link]: https://www.eventbrite.com/copy?eid=14742277549&crumb=79144f8705126c
+
 ## 8 weeks before (Sponsorship Coordinator)
 
 Start emailing potential sponsors. There's more in the [sponsorship
