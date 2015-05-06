@@ -69,7 +69,12 @@ document](/sponsorship.md).
 
 ## 5 weeks before (Registration Coordinator)
 
-Set up registration.
+Set up registration. There should already be an Eventbrite event that you
+created (see above under venue), but:
+
+* We should have 100 student tickets
+* We should have 20 TA tickets (password-protected)
+* Don't make it live yet
 
 ## 3 weeks before (Registration Coordinator)
 
