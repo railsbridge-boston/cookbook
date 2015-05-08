@@ -60,6 +60,10 @@ To make it private, scroll down to "3. Additional Settings", click "Private
 page", and add a password. Now you have something to fill in the "Event
 registration link" with.
 
+It will still pop up on the Railsbridge Boston web site, which pulls in
+Eventbrite events automatically. To hide registrations links, run `heroku
+config:set HIDE_REGISTRATION=true -a railsbridge-boston`.
+
 [this link]: https://www.eventbrite.com/copy?eid=14742277549&crumb=79144f8705126c
 
 ## 8 weeks before (Sponsorship Coordinator)
@@ -74,7 +78,6 @@ created (see above under venue), but:
 
 * We should have 100 student tickets
 * We should have 20 TA tickets (password-protected)
-* Don't make it live yet
 
 ## 3 weeks before (Registration Coordinator)
 
@@ -83,6 +86,10 @@ Open up registration (all passwords are [here][private]):
 * Make the event live in Eventbrite
 * Announce the workshop to the mailing list
 * Announce the workshop on twitter
+
+Unhide registrations links on the Railsbridge site:
+
+    heroku config:set HIDE_REGISTRATION=true -a railsbridge-boston
 
 ## 2 weeks before (Organizer)
 
