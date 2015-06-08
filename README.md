@@ -87,7 +87,15 @@ Open up registration (all passwords are [here][private]):
 * Announce the workshop to the mailing list
 * Announce the workshop on twitter
 
-Unhide registrations links on the Railsbridge site:
+More information is in [this document](/how-to-set-up-registration.md).
+
+Student registration usually fills up in a day. We open up TA registration a
+week after student registration so that we know how many students will attend.
+Both ticket types (student and TA) should stop accepting new entries about a
+week before the event so that we can review and accept TAs, print out name tags,
+etc.
+
+Don't forget to unhide registrations links on the Railsbridge site:
 
     heroku config:set HIDE_REGISTRATION=true -a railsbridge-boston
 
