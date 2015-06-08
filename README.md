@@ -60,7 +60,7 @@ To make it private, scroll down to "3. Additional Settings", click "Private
 page", and add a password. Now you have something to fill in the "Event
 registration link" with.
 
-It will still pop up on the Railsbridge Boston web site, which pulls in
+It will still pop up on the RailsBridge Boston web site, which pulls in
 Eventbrite events automatically. To hide registrations links, run `heroku
 config:set HIDE_REGISTRATION=true -a railsbridge-boston`.
 
@@ -95,7 +95,7 @@ Both ticket types (student and TA) should stop accepting new entries about a
 week before the event so that we can review and accept TAs, print out name tags,
 etc.
 
-Don't forget to unhide registrations links on the Railsbridge site:
+Don't forget to unhide registrations links on the RailsBridge site:
 
     heroku config:set HIDE_REGISTRATION=true -a railsbridge-boston
 
