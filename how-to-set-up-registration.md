@@ -1,89 +1,9 @@
-## CREATE AN EVENTBRITE EVENT
-
-1. This can be done well in advance; EventBrite keeps drafts private until you
-   make them live.
-
-2. Ask an organizer for the RailsBridge Eventbrite account login information.
-
-3. Copy the event page from the last workshop
-   (http://help.eventbrite.com/customer/portal/articles/426069-copy-an-event-page)
-
-4. Update the relevant information for the new workshop: *dates*, *location*,
-   *number of tickets* available.
-
-  Note that the event dates appear in several places, including the confirmation
-  email text. The format for the custom URL is: railsbridgeboston[month and year
-  of event].eventbrite.com.  For the Ruby workshop, be super-explicit that it's a
-  mostly self-paced tutorial and that it doesn't include Rails.
-
-5. Update the Order Confirmation page with the same info.
-
-6. Reevaluate the number of tickets available.
-
-The fire code limits us to 120 people (participants and TAs both) at the NERD
-center.  We aim for 1 TA per 3 participants, so that's about 90 participants and
-30 TAs.  For workshop 7 (January) we started with 110 tickets, which was about
-perfect - 89 participants after cancellations, 82 showed up.  For workshops 5
-and 6 we kept 90 available, churned through the waitlist, and had about 50
-attendees.  We've been raising the initial number of tickets.
-
-EventBrite will automatically trigger the waitlist when all tickets are sold,
-but will NOT offer tickets to people on the wait list if tickets become
-available through cancellation.
-
-7. Make sure the childcare question is re-enabled or re-added.
-
-It should be a radio button question that says, "Thanks to thoughtbot, we're
-offering free in-home childcare through Parents in a Pinch. Do you need backup
-childcare to attend the workshop?"
-
-Add a secondary text field question for "Yes" answers that says, "Please provide
-us with your phone #.  The child care coordinator will contact you to make
-arrangements."
-
-##  CREATE A MAILING CAMPAIGN
-Create a campaign to send the announcement to the Upcoming Workshops mailing list.
-NOTE: This can be done ahead of time and saved until the announcement can be sent out.
-
-1. Ask an organizer for the MailChimp account login information.
-2. Click Create Campaign    NOTE: MailChimp automatically saves all your changes.
-3. Select "Regular Campaign" [Go to the next step.]
-4. Select "Send to entire list" [Next step.]
-5. Enter/confirm the campaign details.
-      * Campaign name = [Month/year of the workshop] Workshop Announcement
-      * From Name = RailsBridge Boston
-      * Email subject = Next RailsBridge Boston Workshop - Applications Open
-      * Reply-to email address = railsbridgeboston@gmail.com
-      * Personalize the To: field = *|FNAME|*
-      * Track opens
-      * Authenticate campaign [Next step.]
-6. Select "Saved Templates"
-7. Select the appropriate workshop announcement template, i.e. either the Ruby
-one or the Rails one.
-8. Select the corresponding section to edit the following information:
-      * Meta text at very top - "RailsBridge Boston [Month] workshop registration is open!"
-      * Main content - "[Month] Workshop"
-      * Main content -  Dates, location, and URLs
-      * Add any mentions of sponsors if necessary
-      * Update what the workshop will cover - is it Ruby basics or Rails?
-9. Preview and test
-10. Save
-11. Look over the Plain Text version [Next step.]
-12. Confirm the information. Exit if you are not ready to send the campaign; send now if you are.
-
-## OPEN REGISTRATION
-1. Use the campaign you created in MailChimp to notify the Upcoming Workshops mailing list about the new workshop.
-2. Announce the workshop to the rest of the world:
-     * Update the front page of the RailsBridge Boston site. Work with an organizer to push to heroku if necessary.
-     * Ask the Twitter organizer or the person in charge of the RailsBridgeBos account to post
-     * Send a message to relevant groups (DevChix, Boston Ruby, RailsBridge. Possibly: The Girl Develop It and Womens Coding Collective.)
-
 ## MANAGE REGISTRATION
+
 1. Plan to spend 30-60 minutes on email a day for the first few days after registration opens. The questions will tend to be "it's sold out, can I bring a guest?", "is this workshop a good fit?", "I'm on the waitlist, am I in?", and "please add this sponsor's employee to the list". It tapers off quickly. (_Note: there has been less email overhead with Eventbrite. Update this estimate if the trend continues._)
 2. RBB #5 and #6 filled up within a day and a half. Eventbrite will automatically open the wait list when registration is full.
 3. Post an update after registration is full using the EventBrite "News and Updates" feature. Post a description of what wait list members could expect so they can plan. The update helps in reducing the number of email questions. People will still join the wait list.
-3. Read through the registrations. To export the registration info to Excel, go to Event Reports and create a Survey Question report (http://help.eventbrite.com/customer/en_us/portal/articles/428605-attendee-summary-
-report).
+3. Read through the registrations. To export the registration info to Excel, go to Event Reports and create a Survey Question report (http://help.eventbrite.com/customer/en_us/portal/articles/428605-attendee-summary-report).
      * There is no "and guest" - everyone must register.
      * For men participants, check that they have a female host and that she has registered.
      * Check for duplicate entries.
@@ -122,6 +42,7 @@ NOTE: EventBrite has a name tag feature. The free version doesn't allow logos.  
 
 
 ## FRIDAY OF THE WORKSHOP
+
  1. Two people should be doing check-ins. People often came in groups and it's sometimes tough to process them all at once. Make sure both can log in to EventBrite and they have the EventBrite app on their device before showtime. The EventBrite phone app will sync check-in data from multiple devices.
 2. Track how many people attended vs. no-shows so we can make better predictions in future.
 
@@ -133,7 +54,8 @@ NOTE: EventBrite has a name tag feature. The free version doesn't allow logos.  
        (see http://help.eventbrite.com/customer/en_us/portal/articles/428605-attendee-summary-report)
      * Open it in Excel; Remove anyone who opted out of email sharing.
 
-## Q&A
+## FAQs
+
 **How many spots can we offer?**
 
 Ideally every seat will be filled, but it's challenging. The fire code gives us a hard limit of how many people may be at the workshop site. There are always cancellations, but we don't have a good formula to predict how many. Most cancellations come in on Friday, and many waitlisters have made other plans. We're going to track attendance better so we have more data.

@@ -54,17 +54,19 @@ details form. Here are some things you can use to fill out that form:
   two-day workshop that Ruby on Rails to women in the Boston community.
 * Event logo: Use [this file](/logos/logo.png).
 
-You can create a *private* (password-protected) copy of a past Eventbrite event by clicking [this link].
+Create a *private* (password-protected) copy of the most recent Eventbrite
+event. Instructions are in the [eventbrite doc](/eventbrite.md).
 
 To make it private, scroll down to "3. Additional Settings", click "Private
 page", and add a password. Now you have something to fill in the "Event
 registration link" with.
 
 It will still pop up on the RailsBridge Boston web site, which pulls in
-Eventbrite events automatically. To hide registrations links, run `heroku
-config:set HIDE_REGISTRATION=true -a railsbridge-boston`.
+Eventbrite events automatically. You should hide it by running:
 
-[this link]: https://www.eventbrite.com/copy?eid=14742277549&crumb=79144f8705126c
+```
+heroku config:set HIDE_REGISTRATION=true -a railsbridge-boston
+```
 
 ## 8 weeks before (Sponsorship Coordinator)
 
@@ -81,23 +83,17 @@ created (see above under venue), but:
 
 ## 3 weeks before (Registration Coordinator)
 
-Open up registration (all passwords are [here][private]):
+Open up registration. Step-by-step information on announcing the newly-open
+registration is in [this document](/announce-registration.md).
 
-* Make the event live in Eventbrite
-* Announce the workshop to the mailing list
-* Announce the workshop on twitter
-
-More information is in [this document](/how-to-set-up-registration.md).
+Plan to spend 30-60 minutes per day on the RBB email account after registration
+opens; we have some [answers to FAQs](/how-to-set-up-registration.md#faqs).
 
 Student registration usually fills up in a day. We open up TA registration a
 week after student registration so that we know how many students will attend.
 Both ticket types (student and TA) should stop accepting new entries about a
 week before the event so that we can review and accept TAs, print out name tags,
 etc.
-
-Don't forget to unhide registrations links on the RailsBridge site:
-
-    heroku config:set HIDE_REGISTRATION=true -a railsbridge-boston
 
 ## 2 weeks before (Organizer)
 
@@ -109,7 +105,6 @@ We place catering orders ~1.5 weeks before the workshop. We assume about 100
 people will attend, but double check that number. For more information, see
 [this document](/catering.md).
 
-
 ## 1 week before (Venue Coordinator)
 
 Find and book a bar/restaurant for our after-party at least a week in advance.
@@ -119,6 +114,10 @@ For more information see our [after party venues doc](/after-party-venues.md).
 
 Make sure the docs are updated and any changes to Installfest VMs are live on
 the website.
+
+Remind attendees about attending (instructions [here][remind]).
+
+[remind]: /how-to-set-up-registration.md#week-of-workshop
 
 ## 1 week before (MC)
 
@@ -199,6 +198,9 @@ programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
 * Bring badges for TAs
 * Bring colored dot stickers for students so we know they went through the
   Installfest
+* Handle Eventbrite check-ins as detailed [here][friday-registration]
+
+[friday-registration]: /how-to-set-up-registration.md#friday-of-the-workshop
 
 ## Saturday, the big event (Everyone)
 
