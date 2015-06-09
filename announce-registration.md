@@ -59,9 +59,8 @@ First, sign in to Mailchimp using the credentials [here].
    1. Update what the workshop will cover: is it Ruby basics or Rails?
 1. Preview and test - look it over, send yourself a test email.
 1. Hit next
-1. Look over the Plain Text version and go to next step.
-1. Confirm the information. Exit if you are not ready to send the campaign; send
-   now if you are.
+1. Click "Edit" next to "Plain-Text email" to make sure the formatting isn't wonky
+1. Exit if you are not ready to send the campaign; send now if you are.
 
 ## Announce on twitter
 
