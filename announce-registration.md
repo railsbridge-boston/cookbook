@@ -13,6 +13,11 @@ Sign into Eventbrite and find the appropriate event in [Your Events][events].
 
 Mark the event as live and ensure it's not password-protected.
 
+Click "Edit" on the event and ensure the dates in the event description are corret
+
+Then click the "Manage" tab and click "Order confirmation" in the left sidebar.
+Ensure the dates for all of the order confirmation text are correct too.
+
 ## Unhide registration links on the RBB site
 
 Don't forget to unhide registrations links on the RailsBridge site:
