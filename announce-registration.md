@@ -65,9 +65,3 @@ First, sign in to Mailchimp using the credentials [here].
 ## Announce on twitter
 
 Sign in to Twitter and tweet about the workshop, linking to the Eventbrite page.
-
-## Tell relevant groups
-
-Send a message to relevant groups like DevChix, Boston Ruby, RailsBridge.
-
-Possibly: The Girl Develop It and Womens Coding Collective.
