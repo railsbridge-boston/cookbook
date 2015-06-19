@@ -101,9 +101,9 @@ Find an MC.
 
 ## 1.5 weeks before (Catering Coordinator)
 
-We place catering orders ~1.5 weeks before the workshop. We assume about 100
-people will attend, but double check that number. For more information, see
-[this document](/catering.md).
+We place catering orders ~1.5 weeks before the workshop. We assume about 75% of
+the people who registered + number of TA's will attend, but double check that
+number. For more information, see [this document](/catering.md).
 
 ## 1 week before (Venue Coordinator)
 
