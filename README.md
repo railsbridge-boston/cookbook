@@ -17,6 +17,7 @@ Here's a list of who's who:
 * Catering Coordinator: Mash Inglis
 * Sponsorship Coordinator: Julissa Jansen
 * TA Coordinator: Margaret Scott
+* Child Care Coordinator: Melissa Xie
 * MC: changes with each event. We try to get an MC a few weeks before.
 
 ## Answering email (Organizer)
@@ -104,6 +105,16 @@ Find an MC.
 We place catering orders ~1.5 weeks before the workshop. We assume about 75% of
 the people who registered + number of TA's will attend, but double check that
 number. For more information, see [this document](/catering.md).
+
+## 1 week before (Child Care Coordinator)
+
+View the registrations and check for those who've opted in for child care. Send
+them an email (all BCC'ed), explaining how it works, have them confirm that they
+still need care, and if so, ask them for details about their children (age,
+gender, special needs, which days and how long they need care for).
+
+Give them 2-3 days to respond to you. Coordinate payment between the sponsor and
+the child care provider.
 
 ## 1 week before (Venue Coordinator)
 
