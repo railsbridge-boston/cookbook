@@ -35,24 +35,6 @@ After booking, the organizer will coordinate with the venue contact over any
 logistics when using the space, e.g.  what's off-limits, equipment use,
 catering, security, etc.
 
-We like using the Microsoft NERD center to host our events, because it's free
-and and they handle a lot of things for us. They require a lot of advance
-notice, though, so *at least* 6 months before the event, fill out [this
-form][nerd-form].
-
-[nerd-form]: http://microsoftcambridge.com/eventmanager/
-
-They will reply with a confirmation email that includes a link to an event
-details form. Here are some things you can use to fill out that form:
-
-* Event title: RailsBridge Boston
-* Event audience: Women in Boston
-* Registration link: Eventbrite link
-* Twitter handle: railsbridgebos
-* Event description: RailsBridge Boston (http://www.railsbridgeboston.org/) is a
-  two-day workshop that Ruby on Rails to women in the Boston community.
-* Event logo: Use [this file](/logos/logo.png).
-
 Create a *private* (password-protected) copy of the most recent Eventbrite
 event. Instructions are in the [eventbrite doc](/eventbrite.md).
 
