@@ -3,9 +3,7 @@
 This is the RailsBridge Boston cookbook, which includes various "How to" and
 planning documents. This README is the timeline for planning a workshop.
 
-Look in our [private repo][private] for credentials for our GMail/Twitter/etc.
-
-[private]: https://github.com/railsbridge-boston/private
+Ask a lead organizer for access to credentials to the various services we use.
 
 Here's a list of who's who:
 
