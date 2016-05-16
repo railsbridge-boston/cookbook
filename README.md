@@ -5,18 +5,18 @@ planning documents. This README is the timeline for planning a workshop.
 
 Ask a lead organizer for access to credentials to the various services we use.
 
-Here's a list of who's who:
+Here's a list of roles that are involved in organizing a workshop:
 
-* Organizer: May change depending on the workshop, ask Melissa Xie if you don't
-  know who it is
+* Lead Organizer
 * Venue Coordinator: changes with each workshop, whoever does it should commit
   to owning the process
-* Registration Coordinator: usually the organizer, again
-* Catering Coordinator: Mash Inglis
-* Sponsorship Coordinator: Julissa Jansen
-* TA Coordinator: Margaret Scott
-* Child Care Coordinator: Melissa Xie
-* MC: changes with each event. We try to get an MC a few weeks before.
+* Registration Coordinator
+* Catering Coordinator
+* Sponsorship Coordinator
+* TA Coordinator
+* Child Care Coordinator
+* Installfest Coordinator
+* MC
 
 ## Answering email (Organizer)
 
