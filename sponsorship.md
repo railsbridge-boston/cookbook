@@ -10,7 +10,7 @@ held numerous workshops so far at the Microsoft NERD Center, Harvard Law School,
 MIT Stata Center, and the Intelligent.ly office, with very positive feedback
 from participants.
 
-Each workshop needs about 5-10 sponsors, each of whom would contribute towards
+Each workshop needs about 3-5 sponsors, each of whom would contribute towards
 food and drinks for the entire workshop and the post-workshop celebration.
 
 For more information on sponsorship and the current options, please take a look
