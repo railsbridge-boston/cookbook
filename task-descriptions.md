@@ -127,11 +127,11 @@ Other notes:
 no need to ask them for sponsorship each time, but we should give Chad Pytel
 the heads up when a workshop is coming.
  * The thoughtbot sponsorship includes paying for childcare and providing
-discount coupons for Learn Prime. The coupon gives each student 50% off their
-first month of [Learn Prime](http://learn.thoughtbot.com).
-   * Prime is guided learning from thoughtbot, where students get to everything
-thoughtbot teaches, including in-person workshops, chat rooms and forums
-staffed by the Rails developers at thoughtbot, starting at $29/month.
+discount coupons for Upcase. The coupon gives each student a free month of
+[Upcase](https://thoughtbot.com/upcase).
+   * Upcase is guided learning from thoughtbot, where students get access to
+everything thoughtbot teaches, including workshops, forums, screencasts, and
+more.
 
 #### How to move the money:
 
