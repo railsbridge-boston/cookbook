@@ -133,21 +133,6 @@ discount coupons for Upcase. The coupon gives each student a free month of
 everything thoughtbot teaches, including workshops, forums, screencasts, and
 more.
 
-#### How to move the money:
-
-With the help of [Bridge Foundry], we now have a debit card to pay vendors with.
-All catering orders and the after-party tab are paid using this card. Please ask
-a lead organizer for access to instructions on how to load up this card.
-
-Catering orders are generally paid over the phone or online, depending on the
-vendor.
-
-The after-party tab can be paid in-person at the time of the after-party
-(recommended) or in advance over the phone. There may be a room reservation fee
-or minimum drink/appetizer purchase amount depending on the venue.
-
-[Bridge Foundry]: http://bridgefoundry.org/
-
 ## Venue
 
 Time commitment: 3-4 hours, find and book 4-6 months in advance and then

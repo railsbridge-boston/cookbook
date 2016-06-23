@@ -39,3 +39,33 @@ You can read more about Bridge Foundry's financial process [here].
 
 [Bridge Foundry]: http://bridgefoundry.org/
 [here]: https://github.com/bridgefoundry/operations
+
+# How-To
+
+## Receiving the money from sponsors
+
+Once an organization agrees to sponsor our workshop, make sure that they fill
+out [our form] so that we can keep track of them and their contributions.
+
+If the sponsor opted to receive an invoice (most cases), we should use their
+information from our form to fill out the Bridge Foundry [invoice request form].
+Every week, the Bridge Foundry team will process these requests and send the
+invoices out. Make sure that you include your email address in this form in case
+they have any questions.
+
+[our form]: http://goo.gl/forms/vOkyrWICtZXVImc12
+[invoice request form]: http://goo.gl/forms/KNVkEwG1KE02sfxx2
+
+## Paying for expenses
+
+With the help of Bridge Foundry, we now have a debit card to pay vendors with.
+All catering orders, the after-party tab, and other miscellaneous workshop
+expenses are paid using this card. Please ask a lead organizer about loading up
+this card at least 1 week in advance.
+
+Catering orders are generally paid over the phone or online, depending on the
+vendor.
+
+The after-party tab can be paid in-person at the time of the after-party
+(recommended) or in advance over the phone. There may be a room reservation fee
+or minimum drink/appetizer purchase amount depending on the venue.
