@@ -38,4 +38,4 @@ which was to have sponsors pay vendors directly.
 You can read more about Bridge Foundry's financial process [here].
 
 [Bridge Foundry]: http://bridgefoundry.org/
-[here]: https://atrium.schoolfactory.org/bridgefoundry/node/109312
+[here]: https://github.com/bridgefoundry/operations
