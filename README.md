@@ -31,9 +31,8 @@ after an event.
 Book a venue for the event. It should be free, hold at least 100 people, and be
 as easily accessible as possible (e.g. the T, parking).
 
-After booking, the organizer will coordinate with the venue contact over any
-logistics when using the space, e.g.  what's off-limits, equipment use,
-catering, security, etc.
+After booking, coordinate with the venue contact over any logistics when using
+the space, e.g.  what's off-limits, equipment use, catering, security, etc.
 
 Create a *private* (password-protected) copy of the most recent Eventbrite
 event. Instructions are in the [eventbrite doc](/eventbrite.md).
