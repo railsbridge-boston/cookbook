@@ -7,7 +7,7 @@
    login information.
 
 3. Copy the event page from the last workshop
-   (http://help.eventbrite.com/customer/portal/articles/426069-copy-an-event-page)
+   (https://www.eventbrite.com/support/articles/en_US/How_To/how-to-copy-an-event-page)
 
 4. Update the relevant information for the new workshop: *dates*, *location*,
    *number of tickets* available.
@@ -22,8 +22,8 @@
 6. Re-evaluate the number of tickets available.
 
     The fire code limits us to 120 people (participants and TAs both) at the NERD
-    center.  We aim for 1 TA per 3 participants, so that's about 90 participants and
-    30 TAs.  For workshop 7 (January) we started with 110 tickets, which was about
+    center.  We aim for 1 TA per 4 participants, so that's about 96 participants and
+    24 TAs and organizers.  For workshop 7 (January) we started with 110 tickets, which was about
     perfect - 89 participants after cancellations, 82 showed up.  For workshops 5
     and 6 we kept 90 available, churned through the waitlist, and had about 50
     attendees.  We've been raising the initial number of tickets.
@@ -35,11 +35,6 @@
 7. Make sure the childcare question is re-enabled or re-added.
 
   It should be a radio button question that says, "Thanks to thoughtbot, we're
-  offering free in-home childcare through Parents in a Pinch. Do you need backup
-  childcare to attend the workshop?"
-
-  Add a secondary text field question for "Yes" answers that says, "Please provide
-  us with your phone #.  The child care coordinator will contact you to make
-  arrangements."
+  offering free on-site childcare. Do you need childcare to attend the workshop?"
 
 [credentials]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
