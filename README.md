@@ -21,11 +21,15 @@ contact(s).
 
 ## Answering email (Organizer)
 
-This is not around  organizing a specific event - the organizer should check in
-with email every so often.
+This is year-round task that involves monitoring the inbox and answering any
+questions about the organization or the events we run.
 
-People will have questions, especially as the event approaches and immediately
-after an event.
+Checking in on a weekly basis in between workshops should suffice. As we get
+closer to a workshop though, the inbox should be checked more frequently since
+people may have last-minute questions, cancellations, or maybe child care requests.
+
+It would also be good to check often right after a workshop has happened as
+well.
 
 ## 6 months before (Venue Coordinator)
 
