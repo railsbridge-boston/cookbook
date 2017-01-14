@@ -109,23 +109,29 @@ Give them 2-3 days to respond to you.
 Use Sitter City to find a sitter that would accommodate the children that need
 care. Be sure to coordinate how payment will work with the sitter.
 
-## 1 week before (Venue Coordinator)
+## 1 week before
+
+### Venue Coordinator
 
 Find and book a bar/restaurant for our after-party at least a week in advance.
 For more information see our [after party venues doc](/after-party-venues.md).
 
-## 1 week before (Organizer)
+### Installfest Coordinator
 
 Make sure the docs are updated and any changes to Installfest VMs are live on
 the website.
+
+Run the spoon-building script to update the download files.
+
+### Registration Coordinator
 
 Remind attendees about attending (instructions [here][remind]).
 
 [remind]: /how-to-set-up-registration.md#week-of-workshop
 
-## 1 week before (MC)
+### MC
 
-MC should ready a  slide deck with:
+Prepare a slide deck with:
 
 * Sponsor logos
 * Link to Friday/Saturday Google docs
