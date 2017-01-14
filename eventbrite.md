@@ -59,3 +59,11 @@ There should be 3 ticket types:
     know about them at least 1-2 weeks ahead of time.
 
 Ticket "sales" should end ~1 week before the workshop.
+
+### Making the event private
+
+On the "EDIT" page:
+
+* scroll down to "Additional Settings"
+* click "Private page"
+* add a password

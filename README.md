@@ -55,9 +55,6 @@ our babysitter and children can stay in.
 Create a *private* (password-protected) copy of the most recent Eventbrite
 event. Instructions are in the [eventbrite doc](/eventbrite.md).
 
-To make it private, scroll down to "3. Additional Settings", click "Private
-page", and add a password.
-
 It will still pop up on the RailsBridge Boston web site, which pulls in
 Eventbrite events automatically. You should hide it by running:
 
