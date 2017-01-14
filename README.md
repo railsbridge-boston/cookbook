@@ -104,8 +104,10 @@ them an email (all BCC'ed), explaining how it works, have them confirm that they
 still need care, and if so, ask them for details about their children (age,
 gender, special needs, which days and how long they need care for).
 
-Give them 2-3 days to respond to you. Coordinate payment between the sponsor and
-the child care provider.
+Give them 2-3 days to respond to you.
+
+Use Sitter City to find a sitter that would accommodate the children that need
+care. Be sure to coordinate how payment will work with the sitter.
 
 ## 1 week before (Venue Coordinator)
 
