@@ -52,16 +52,17 @@ our babysitter and children can stay in.
 
 ### Registration Coordinator
 
-Create a *private* (password-protected) copy of the most recent Eventbrite
-event. Instructions are in the [eventbrite doc](/eventbrite.md).
+Once a space has been booked, create a *private* (password-protected) copy of
+the most recent Eventbrite event. Instructions are in the [eventbrite
+doc](/eventbrite.md).
 
 Copy the event ID from the Eventbrite URL and update the `NEXT_EVENT_ID`
 environment variable on Heroku using that value. If you don't have Heroku access
 to the app, ask a Lead Organizer for access or for them to update it for you.
 
 The RailsBridge Boston website will automatically fetch details about the event
-and display it. To hide that section temporarily, set the `HIDE_REGISTRATION`
-variable to `true`.
+and display it. For now, hide that section temporarily by setting the
+`HIDE_REGISTRATION` variable to `true`.
 
 ## 8 weeks before (Sponsorship Coordinator)
 
@@ -70,11 +71,9 @@ document](/sponsorship.md).
 
 ## 5 weeks before (Registration Coordinator)
 
-Set up registration. There should already be an Eventbrite event that you
-created (see above under venue), but:
+Update any necessary information on the event page (check the Eventbrite docs).
 
-* We should have 100 student tickets
-* We should have 20 TA tickets (password-protected)
+Unhide registration on the website by setting `HIDE_REGISTRATION` to `false`.
 
 ## 3 weeks before (Registration Coordinator)
 
