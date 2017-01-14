@@ -11,11 +11,6 @@
 1. Update the relevant information for the new workshop: *dates*, *location*,
    *number of tickets* available.
 
-  Note that the event dates appear in several places, including the confirmation
-  email text. The format for the custom URL is: railsbridgeboston[month and year
-  of event].eventbrite.com. For the Ruby workshop, be super-explicit that it's a
-  mostly self-paced tutorial and that it doesn't include Rails.
-
 1. Update the Order Confirmation page with the same info.
 
 1. Re-evaluate the number of tickets available.
@@ -35,6 +30,12 @@
 
   It should be a radio button question that says, "Thanks to thoughtbot, we're
   offering free on-site childcare. Do you need childcare to attend the workshop?"
+
+1. Update the event URL to be more human-friendly.
+
+  On the Event Dashboard, there should be an option to edit the event URL.
+  Usually, we follow the format of: `railsbridgeboston[month and year of
+  event].eventbrite.com`.
 
 1. Provide the Sponsorship Coordinator with the special link for TAs sent by
 sponsors. It'll look something like:
