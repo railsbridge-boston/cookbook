@@ -8,10 +8,11 @@
 
 1. [Copy the event page][copying instructions] from the last workshop.
 
-1. Update the relevant information for the new workshop: *dates*, *location*,
-   *number of tickets* available.
+1. Update key information for the new workshop: *dates*, *location*, *number of
+tickets* available.
 
-1. Update the Order Confirmation page with the same info.
+1. Add or update any important information people should know about finding the
+venue on the Order Confirmation page.
 
 1. Re-evaluate the number of tickets available.
 
