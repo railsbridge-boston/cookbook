@@ -73,21 +73,13 @@ document](/sponsorship.md).
 
 Update any necessary information on the event page (check the Eventbrite docs).
 
-Unhide registration on the website by setting `HIDE_REGISTRATION` to `false`.
-
-## 3 weeks before (Registration Coordinator)
-
 Open up registration. Step-by-step information on announcing the newly-open
 registration is in [this document](/announce-registration.md).
 
+Unhide registration on the website by setting `HIDE_REGISTRATION` to `false`.
+
 Plan to spend 30-60 minutes per day on the RBB email account after registration
 opens; we have some [answers to FAQs](/how-to-set-up-registration.md#faqs).
-
-Student registration usually fills up in a day. We open up TA registration a
-week after student registration so that we know how many students will attend.
-Both ticket types (student and TA) should stop accepting new entries about a
-week before the event so that we can review and accept TAs, print out name tags,
-etc.
 
 ## 2 weeks before (Organizer)
 
