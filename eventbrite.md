@@ -36,6 +36,10 @@
   It should be a radio button question that says, "Thanks to thoughtbot, we're
   offering free on-site childcare. Do you need childcare to attend the workshop?"
 
+1. Provide the Sponsorship Coordinator with the special link for TAs sent by
+sponsors. It'll look something like:
+https://railsbridgeboston012017.eventbrite.com?discount=special_invite.
+
 [credentials]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
 [copying instructions]: https://www.eventbrite.com/support/articles/en_US/How_To/how-to-copy-an-event-page
 
