@@ -64,6 +64,11 @@ The RailsBridge Boston website will automatically fetch details about the event
 and display it. For now, hide that section temporarily by setting the
 `HIDE_REGISTRATION` variable to `true`.
 
+## 3 months before (Organizer)
+
+Set up a coordination meeting for everyone who's interested in coordinating for
+the next workshop.
+
 ## 8 weeks before (Sponsorship Coordinator)
 
 Start emailing potential sponsors. There's more in the [sponsorship
@@ -80,10 +85,6 @@ Unhide registration on the website by setting `HIDE_REGISTRATION` to `false`.
 
 Plan to spend 30-60 minutes per day on the RBB email account after registration
 opens; we have some [answers to FAQs](/how-to-set-up-registration.md#faqs).
-
-## 2 weeks before (Organizer)
-
-Find an MC.
 
 ## 1.5 weeks before (Catering Coordinator)
 
