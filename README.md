@@ -31,7 +31,9 @@ people may have last-minute questions, cancellations, or maybe child care reques
 It would also be good to check often right after a workshop has happened as
 well.
 
-## 6 months before (Venue Coordinator)
+## 6 months before
+
+### Venue Coordinator
 
 Book a venue for the event. It should be free, hold at least 100 people, and be
 as easily accessible as possible (e.g. the T, parking).
@@ -47,6 +49,8 @@ preferred vendors, where should they come in, etc.), security, etc.
 
 If we're offering onsite childcare, we make sure there's a separate room that
 our babysitter and children can stay in.
+
+### Registration Coordinator
 
 Create a *private* (password-protected) copy of the most recent Eventbrite
 event. Instructions are in the [eventbrite doc](/eventbrite.md).
