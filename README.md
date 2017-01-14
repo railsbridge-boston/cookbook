@@ -88,9 +88,14 @@ opens; we have some [answers to FAQs](/how-to-set-up-registration.md#faqs).
 
 ## 1.5 weeks before (Catering Coordinator)
 
-We place catering orders ~1.5 weeks before the workshop. We assume about 75% of
-the people who registered + number of TA's will attend, but double check that
-number. For more information, see [this document](/catering.md).
+Find 2-3 different vendors that we can work with. If our venue has a specific
+list of vendors we can use, please accommodate that.
+
+Get a CSV of all the attendees, including TAs, to get a rough head count and a
+sense of what the dietary restrictions are.
+
+Assume about 60% of the people who registered + number of TA's will attend.  For
+more information, see [this document](/catering.md).
 
 ## 1 week before (Child Care Coordinator)
 
