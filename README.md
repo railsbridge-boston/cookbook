@@ -55,12 +55,13 @@ our babysitter and children can stay in.
 Create a *private* (password-protected) copy of the most recent Eventbrite
 event. Instructions are in the [eventbrite doc](/eventbrite.md).
 
-It will still pop up on the RailsBridge Boston web site, which pulls in
-Eventbrite events automatically. You should hide it by running:
+Copy the event ID from the Eventbrite URL and update the `NEXT_EVENT_ID`
+environment variable on Heroku using that value. If you don't have Heroku access
+to the app, ask a Lead Organizer for access or for them to update it for you.
 
-```
-heroku config:set HIDE_REGISTRATION=true -a railsbridge-boston
-```
+The RailsBridge Boston website will automatically fetch details about the event
+and display it. To hide that section temporarily, set the `HIDE_REGISTRATION`
+variable to `true`.
 
 ## 8 weeks before (Sponsorship Coordinator)
 
