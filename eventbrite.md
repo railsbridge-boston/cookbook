@@ -38,3 +38,18 @@
   offering free on-site childcare. Do you need childcare to attend the workshop?"
 
 [credentials]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
+
+### Ticket types
+
+There should be 3 ticket types:
+  * Participant
+  * TA
+    - This should end 2 weeks before the workshop so that the TA Coordinator can
+    get back to them about whether or not they are accept. This will also give
+    people time to prepare for their presentations and look at the curriculum.
+  * Invited TA
+    - This one is reserved for TAs that are sent by sponsors.
+    - This can stay open until the very last-minute, but preferably, we should
+    know about them at least 1-2 weeks ahead of time.
+
+Ticket "sales" should end ~1 week before the workshop.
