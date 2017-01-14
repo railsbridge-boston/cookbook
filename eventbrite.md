@@ -6,8 +6,7 @@
 1. Check the [private repo][credentials] for the RailsBridge Eventbrite account
    login information.
 
-1. Copy the event page from the last workshop
-   (https://www.eventbrite.com/support/articles/en_US/How_To/how-to-copy-an-event-page)
+1. [Copy the event page][copying instructions] from the last workshop.
 
 1. Update the relevant information for the new workshop: *dates*, *location*,
    *number of tickets* available.
@@ -38,6 +37,7 @@
   offering free on-site childcare. Do you need childcare to attend the workshop?"
 
 [credentials]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
+[copying instructions]: https://www.eventbrite.com/support/articles/en_US/How_To/how-to-copy-an-event-page
 
 ### Ticket types
 
