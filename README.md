@@ -139,7 +139,9 @@ Prepare a slide deck with:
 
 We have sample slide decks in [the MC directory](/mc).
 
-## 3 days before (Venue Coordinator)
+## 3 days before
+
+### Venue Coordinator
 
 Send NERD a list of names of everyone who might be there.
 
@@ -156,8 +158,10 @@ Send NERD a list of names of everyone who might be there.
   our NERD Center contact is and the lead coordinators. Re-emphasize that we
   want the desks set up in U shaped clusters.
 
-Send an Eventbrite email to everyone, TAs *and* students, asking them to be sure
-that they bring a photo ID, per NERD Center policy.
+### Registration Coordinator
+
+If applicable, send an Eventbrite email to everyone about remembering their IDs
+for front security.
 
 ## Friday afternoon (Organizer)
 
