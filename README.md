@@ -7,7 +7,7 @@ Ask a lead organizer for access to credentials to the various services we use.
 
 Here's a list of roles that are involved in organizing a workshop:
 
-* Lead Organizer
+* 1-2 Lead Organizers
 * Venue Coordinator: changes with each workshop, whoever does it should commit
   to owning the process
 * Registration Coordinator
