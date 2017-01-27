@@ -24,12 +24,21 @@ contact(s).
 This is year-round task that involves monitoring the inbox and answering any
 questions about the organization or the events we run.
 
+We use [Inbox by Zendesk][inbox] to manage emails sent to the RBB. Anything that
+is sent to the RBB address is automatically forwarded to our personal ones.
+
+If there are multiple people managing the inbox, please make sure to assign
+yourself to the email threads that you are participating in. If a conversation
+is complete, please also mark it as "Done".
+
 Checking in on a weekly basis in between workshops should suffice. As we get
 closer to a workshop though, the inbox should be checked more frequently since
 people may have last-minute questions, cancellations, or maybe child care requests.
 
 It would also be good to check often right after a workshop has happened as
 well.
+
+[inbox]: https://www.zendesk.com/inbox/
 
 ## 6 months before
 
