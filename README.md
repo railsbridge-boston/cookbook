@@ -75,8 +75,12 @@ and display it. For now, hide that section temporarily by setting the
 
 ## 3 months before (Organizer)
 
-Set up a coordination meeting for everyone who's interested in coordinating for
-the next workshop.
+Create a new Trello board based on the [Workshop Template].
+
+Set up a meeting for everyone who's interested in coordinating for the next
+workshop and invite them to the new Trello board.
+
+[Workshop Template]: https://trello.com/b/AIqOY0yW/workshop-template
 
 ## 8 weeks before (Sponsorship Coordinator)
 
