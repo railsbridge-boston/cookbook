@@ -42,6 +42,12 @@ You can read more about Bridge Foundry's financial process [here].
 
 # How-To
 
+You can keep track of incoming and outgoing funds by checking out [this
+spreadsheet][finance spreadsheet].
+
+[finance spreadsheet]:
+https://docs.google.com/spreadsheets/d/10TzUid02hIkZTCjwKLI-c-OX5OeB2yergr71eHCc3uc/edit#gid=134161306
+
 ## Receiving the money from sponsors
 
 Once an organization agrees to sponsor our workshop, make sure that they fill
@@ -52,6 +58,9 @@ information from our form to fill out the Bridge Foundry [invoice request form].
 Every week, the Bridge Foundry team will process these requests and send the
 invoices out. Make sure that you include your email address in this form in case
 they have any questions.
+
+You can keep track of the invoice status by viewing the "Invoice Status" tab in
+the same spreadsheet mentioned above.
 
 [our form]: http://goo.gl/forms/vOkyrWICtZXVImc12
 [invoice request form]: http://goo.gl/forms/KNVkEwG1KE02sfxx2
