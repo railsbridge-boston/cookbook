@@ -13,6 +13,8 @@ from participants.
 Each workshop needs about 3-5 sponsors, each of whom would contribute towards
 food and drinks for the entire workshop and the post-workshop celebration.
 
+List of sponsors & contacts: https://docs.google.com/spreadsheets/d/1jb20RGtb_R0M0GQz2pg8cMPCN_ZKyOfVlsVe_kedWfc/edit#gid=0
+
 For more information on sponsorship and the current options, please take a look
 at the [prospectus].
 
