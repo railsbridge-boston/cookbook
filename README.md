@@ -196,7 +196,7 @@ Get the following together to bring to the Installfest:
 #### TA Coordinator
 
 Remind the TAs about the kind of conduct we expect and how to talk to new
-programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
+programmers. Look at our [Friday TA pep talk](/TAs/giving-the-pep-talk.md#friday).
 
 #### MC
 
@@ -234,7 +234,7 @@ programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
 #### TA Coordinator
 
 Remind the TAs about the kind of conduct we expect and how to talk to new
-programmers. Look at our [Saturday TA pep talk](/ta-pep-talk/saturday.md).
+programmers. Look at our [Saturday TA pep talk](/TAs/giving-the-pep-talk.md#saturday).
 
 #### MC
 
