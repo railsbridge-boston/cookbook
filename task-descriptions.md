@@ -138,7 +138,7 @@ more.
 Time commitment: 3-4 hours, find and book 4-6 months in advance and then
 follow-up closer to workshop dates
 
-See [How-To: Venue](./venue.md)
+See [How-To: Venue](./venue-coordination/README.md)
 
 ## Catering
 

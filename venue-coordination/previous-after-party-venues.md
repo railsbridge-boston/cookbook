@@ -1,17 +1,8 @@
-# After Party Venue
-
-Calling the veune about a week ahead of time should suffice.
-
-Venue criteria:
-
-* Within walking distance
-* Holds at least 20-30 people, sitting and/or standing
-
-## Known places
+# Previous After Party Venues
 
 We've gone to all of these places before and enjoyed them.
 
-### Near NERD
+## Near Microsoft NERD (1 Memorial Dr)
 
 - Firebrand Saints
   * 5-minute walk from NERD
@@ -26,7 +17,7 @@ We've gone to all of these places before and enjoyed them.
 - Cambridge Brewing Company
   * 14-minute walk from NERD
 
-### Near General Assembly
+## Near General Assembly (51 Melcher St)
 
 - Papagayo
   * 3-minute walk

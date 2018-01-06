@@ -1,6 +1,15 @@
-# Venue
+# Previous Workshop Venues
 
-### Microsoft NERD Center
+We've used the following venues in the past:
+
+* [Microsoft NERD Center](#Microsoft-NERD-Center) (1 Memorial Dr, Cambridge, MA)
+* General Assembly (at their old 51 Melcher St location in Boston)
+* Wayfair (4 Copley Place, 7th Floor, Boston, MA 02116)
+* LogMeIn (320 Summer St, Boston, MA 02210)
+
+Any special information we have on these venues can be found below.
+
+## Microsoft NERD Center
 
 Many of our workshops have taken place at Microsoft NERD. We like using the Microsoft
 NERD Center to host our events because it's free and they handle a lot of things for us.

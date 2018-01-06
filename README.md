@@ -44,20 +44,8 @@ well.
 
 ### Venue Coordinator
 
-Book a venue for the event. It should be free, hold at least 100 people, and be
-as easily accessible as possible (e.g. the T, parking).
-
-The timeframes we need are: **Friday 6:00-9:30pm** and **Saturday
-9:00am-5:30pm**. These timeframes include 30-minute prep/setup at the beginning
-of each day and then a little bit of time to clean up at the end. If we could
-arrive earlier to accommodate catering arrivals, that would be great.
-
-When talking to someone about the venue, be sure to ask about any logistics when
-using the space, e.g. what's off-limits, equipment use, catering (do they have
-preferred vendors, where should they come in, etc.), security, etc.
-
-If we're offering onsite childcare, we make sure there's a separate room that
-our babysitter and children can stay in.
+Book a venue for the event. See
+[guidelines](/venue-coordination/README.md#workshop-venue-guidelines).
 
 ### Registration Coordinator
 
@@ -127,7 +115,8 @@ care. Be sure to coordinate how payment will work with the sitter.
 ### Venue Coordinator
 
 Find and book a bar/restaurant for our after-party at least a week in advance.
-For more information see our [after party venues doc](/after-party-venues.md).
+See the guidelines
+[here](/venue-coordination/README.md#after-party-venue-guidelines).
 
 ### Installfest Coordinator
 
