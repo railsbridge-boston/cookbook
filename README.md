@@ -63,7 +63,7 @@ our babysitter and children can stay in.
 
 Once a space has been booked, create a *private* (password-protected) copy of
 the most recent Eventbrite event. Instructions are in the [eventbrite
-doc](/eventbrite.md).
+doc](/registration/eventbrite.md).
 
 Copy the event ID from the Eventbrite URL and update the `NEXT_EVENT_ID`
 environment variable on Heroku using that value. If you don't have Heroku access
@@ -92,12 +92,12 @@ document](/sponsorship.md).
 Update any necessary information on the event page (check the Eventbrite docs).
 
 Open up registration. Step-by-step information on announcing the newly-open
-registration is in [this document](/announce-registration.md).
+registration is in [this document](/registration/announcing-registration.md).
 
 Unhide registration on the website by setting `HIDE_REGISTRATION` to `false`.
 
 Plan to spend 30-60 minutes per day on the RBB email account after registration
-opens; we have some [answers to FAQs](/how-to-set-up-registration.md#faqs).
+opens; we have some [answers to FAQs](/registration/setting-up-registration.md#faqs).
 
 ## 1.5 weeks before (Catering Coordinator)
 
@@ -140,7 +140,7 @@ Run the spoon-building script to update the download files.
 
 Remind attendees about attending (instructions [here][remind]).
 
-[remind]: /how-to-set-up-registration.md#week-of-workshop
+[remind]: /registration/setting-up-registration.md#week-of-workshop
 
 ### MC
 
@@ -227,7 +227,7 @@ programmers. Look at our [Friday TA pep talk](/ta-pep-talk/friday.md).
   Installfest
 * Handle Eventbrite check-ins as detailed [here][friday-registration]
 
-[friday-registration]: /how-to-set-up-registration.md#friday-of-the-workshop
+[friday-registration]: /registration/setting-up-registration.md#friday-of-the-workshop
 
 ## Saturday, the big event (Everyone)
 
