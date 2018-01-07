@@ -111,7 +111,9 @@ See the guidelines
 Make sure the docs are updated and any changes to Installfest VMs are live on
 the website.
 
-Run the spoon-building script to update the download files.
+Run the [spoon-building
+script](https://github.com/railsbridge-boston/spoon-builder) to update the
+download files.
 
 ### Registration Coordinator
 
