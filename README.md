@@ -98,18 +98,6 @@ sense of what the dietary restrictions are.
 Assume about 60% of the people who registered + number of TA's will attend.  For
 more information, see [this document](/catering.md).
 
-## 1 week before (Child Care Coordinator)
-
-View the registrations and check for those who've opted in for child care. Send
-them an email (all BCC'ed), explaining how it works, have them confirm that they
-still need care, and if so, ask them for details about their children (age,
-gender, special needs, which days and how long they need care for).
-
-Give them 2-3 days to respond to you.
-
-Use Sitter City to find a sitter that would accommodate the children that need
-care. Be sure to coordinate how payment will work with the sitter.
-
 ## 1 week before
 
 ### Venue Coordinator
@@ -140,6 +128,18 @@ Prepare a slide deck with:
 * Schedule for Friday/Saturday
 
 We have sample slide decks in [the MC directory](/mc).
+
+### Child Care Coordinator
+
+View the registrations and check for those who've opted in for child care. Send
+them an email (all BCC'ed), explaining how it works, have them confirm that they
+still need care, and if so, ask them for details about their children (age,
+gender, special needs, which days and how long they need care for).
+
+Give them 2-3 days to respond to you.
+
+Use Sitter City to find a sitter that would accommodate the children that need
+care. Be sure to coordinate how payment will work with the sitter.
 
 ## 3 days before
 
