@@ -3,8 +3,7 @@
 1. This can be done well in advance; EventBrite keeps drafts private until you
    make them live.
 
-1. Check the [private repo][credentials] for the RailsBridge Eventbrite account
-   login information.
+1. Ask lead organizers for Eventbrite credentials.
 
 1. [Copy the event page][copying instructions] from the last workshop.
 
@@ -42,7 +41,6 @@ venue on the Order Confirmation page.
 sponsors. It'll look something like:
 https://railsbridgeboston012017.eventbrite.com?discount=special_invite.
 
-[credentials]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
 [copying instructions]: https://www.eventbrite.com/support/articles/en_US/How_To/how-to-copy-an-event-page
 
 ### Ticket types
