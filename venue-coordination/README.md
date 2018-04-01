@@ -11,7 +11,7 @@ Check out where we've held workshops previously
 Friday 6:00-9:30pm
 Saturday 9:00am-5:30pm
 
-** 30-minute prep/setup/clean up at the beginning included
+** 30-minute prep/setup/clean up at the beginning included <br>
 ** ask if we can arrive earlier to accommodate catering arrivals
 
 ### Criteria:
@@ -58,7 +58,7 @@ Catering
 
 ## After-Party Venue Guidelines
 
-C## riteria:
+### Criteria:
 
 * Within walking distance
 * Holds at least 20-30 people, sitting and/or standing

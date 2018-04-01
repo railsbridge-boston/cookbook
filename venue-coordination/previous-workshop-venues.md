@@ -1,4 +1,4 @@
-# Previous Workshop Venues
+# Previous Workshop Venues (Refer to goggle doc)
 
 We've used the following venues in the past:
 
