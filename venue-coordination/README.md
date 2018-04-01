@@ -12,7 +12,7 @@ Friday 6:00-9:30pm
 Saturday 9:00am-5:30pm
 
 ** 30-minute prep/setup/clean up at the beginning included <br>
-** ask if we can arrive earlier to accommodate catering arrivals
+** Ask if we can arrive earlier to accommodate catering arrivals
 
 ### Criteria:
 * Free, preferably
