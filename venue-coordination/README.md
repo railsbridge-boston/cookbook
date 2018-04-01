@@ -17,7 +17,7 @@ Criteria:
 * As accessible as possible (e.g. easy access to the T, parking available)
 * Has a separate space for child care
 
-###Questions to ask: 
+### Questions to ask: 
 Daycare:
 * Dedicated area for baby sister + babies
 * Is there a mother’s room that can be locked from the inside?
