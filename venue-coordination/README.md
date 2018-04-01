@@ -2,22 +2,25 @@
 
 The Venue Coordinator books a venue for the workshop as well as the after-party.
 
+Check out where we've held workshops previously
+[here](./previous-workshop-venues.md).
+
+
 ## Workshop Venue Guidelines
-Timeframes:
+### Timeframes:
 Friday 6:00-9:30pm
 Saturday 9:00am-5:30pm
 
-These timeframes include 30-minute prep/setup at the beginning
-of each day and then a little bit of time to clean up at the end. If we could
-arrive earlier to accommodate catering arrivals, that would be great.
+** 30-minute prep/setup/clean up at the beginning included
+** ask if we can arrive earlier to accommodate catering arrivals
 
-Criteria:
+### Criteria:
 * Free, preferably
 * Can hold up to 100 people
 * As accessible as possible (e.g. easy access to the T, parking available)
 * Has a separate space for child care
 
-### Questions to ask: 
+### Questions to ask:
 Daycare:
 * Dedicated area for baby sister + babies
 * Is there a mother’s room that can be locked from the inside?
@@ -53,13 +56,9 @@ Trash
 Catering
 * Are all caterers allowed?
 
-
-Check out where we've held workshops previously
-[here](./previous-workshop-venues.md).
-
 ## After-Party Venue Guidelines
 
-Criteria:
+C## riteria:
 
 * Within walking distance
 * Holds at least 20-30 people, sitting and/or standing
