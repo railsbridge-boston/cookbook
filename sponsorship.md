@@ -65,7 +65,7 @@ You can keep track of the invoice status by viewing the "Invoice Status" tab in
 the same spreadsheet mentioned above.
 
 [our form]: http://goo.gl/forms/vOkyrWICtZXVImc12
-[invoice request form]: http://goo.gl/forms/KNVkEwG1KE02sfxx2
+[invoice request form]: https://docs.google.com/forms/d/e/1FAIpQLSdUBNaXJP_DwF9wOQCKid1MnVM0a6yU5-i_7hvny7IMqCNLKw/viewform
 
 ## Paying for expenses
 
