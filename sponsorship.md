@@ -48,7 +48,7 @@ You can keep track of incoming and outgoing funds by checking out [this
 spreadsheet][finance spreadsheet].
 
 [finance spreadsheet]:
-https://docs.google.com/spreadsheets/d/10TzUid02hIkZTCjwKLI-c-OX5OeB2yergr71eHCc3uc/edit#gid=134161306
+https://docs.google.com/spreadsheets/d/1ImzwdUEd6j0jwDGW7fHS42qc739fh9LMOUmu_yggIO4/edit#gid=236722140
 
 ## Receiving the money from sponsors
 
