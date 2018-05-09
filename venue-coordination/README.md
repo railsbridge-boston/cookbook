@@ -2,6 +2,20 @@
 
 The Venue Coordinator books a venue for the workshop as well as the after-party.
 
+## Finding A Date
+
+For coordinating a date with multiple people, we've found that [Doodle](https://doodle.com) is a great resource.
+
+Also, be aware of other events that may conflict on whatever date you're looking into. Ideally the event shouldn't compete with other well-known events that would cause potential participants or TAs to have a conflict.
+
+Some places to check for events are:
+
+* Public Boston Events: https://www.boston.gov/events
+* Lots of many other Boston events: https://www.bostonusa.com/events/events-calendar/
+* Jewish Holidays: https://www.hebcal.com/holidays/
+* Boston Public School Calendar: https://www.bostonpublicschools.org/calendar#calendar1/20180509/month
+* Cambridge Public School Calendar: https://www.cpsd.us/calendar
+
 ## Workshop Venue Guidelines
 
 Criteria:
