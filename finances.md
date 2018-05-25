@@ -1,4 +1,4 @@
-# Sponsors
+# Finances
 
 Since August 2012, RailsBridge Boston has been running free workshops to
 introduce women to programming in Ruby and web development with Ruby on Rails.
@@ -20,7 +20,7 @@ at the [prospectus].
 
 [prospectus]: http://railsbridgeboston.org/sponsorship_prospectus.pdf
 
-# Financial Logistics
+## Financial Management
 As of December 2013, we've moved to using [Bridge Foundry] to handle our
 financials, as well as that of other RailsBridge chapters.
 
@@ -42,7 +42,7 @@ You can read more about Bridge Foundry's financial process [here].
 [Bridge Foundry]: http://bridgefoundry.org/
 [here]: https://github.com/bridgefoundry/operations
 
-# How-To
+## How-To
 
 You can keep track of incoming and outgoing funds by checking out [this
 spreadsheet][finance spreadsheet].
@@ -50,7 +50,7 @@ spreadsheet][finance spreadsheet].
 [finance spreadsheet]:
 https://docs.google.com/spreadsheets/d/1ImzwdUEd6j0jwDGW7fHS42qc739fh9LMOUmu_yggIO4/edit#gid=236722140
 
-## Receiving the money from sponsors
+### Receiving the money from sponsors
 
 Once an organization agrees to sponsor our workshop, make sure that they fill
 out [our form] so that we can keep track of them and their contributions.
@@ -67,7 +67,7 @@ the same spreadsheet mentioned above.
 [our form]: http://goo.gl/forms/vOkyrWICtZXVImc12
 [invoice request form]: https://docs.google.com/forms/d/e/1FAIpQLSdUBNaXJP_DwF9wOQCKid1MnVM0a6yU5-i_7hvny7IMqCNLKw/viewform
 
-## Paying for expenses
+### Paying for expenses
 
 With the help of Bridge Foundry, we now have a debit card to pay vendors with.
 All catering orders, the after-party tab, and other miscellaneous workshop
