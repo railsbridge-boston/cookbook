@@ -55,14 +55,18 @@ https://docs.google.com/spreadsheets/d/1ImzwdUEd6j0jwDGW7fHS42qc739fh9LMOUmu_ygg
 Once an organization agrees to sponsor our workshop, make sure that they fill
 out [our form] so that we can keep track of them and their contributions.
 
-If the sponsor opted to receive an invoice (most cases), we should use their
-information from our form to fill out the Bridge Foundry [invoice request form].
-Every week, the Bridge Foundry team will process these requests and send the
-invoices out. Make sure that you include your email address in this form in case
-they have any questions.
+Using their responses, we'll need to fill out the Bridge Foundry [invoice
+request form]. Every week, the Bridge Foundry team will process these requests
+and send the invoices out. Make sure that you include your email address in this
+form in case they have any questions. You will be CC'ed on the invoice that will
+be sent to the sponsor. For bookkeeping, please also include the RBBsponsorships
+email address when filling out the request form.
 
-You can keep track of the invoice status by viewing the "Invoice Status" tab in
-the same spreadsheet mentioned above.
+To keep track of the invoice status, you can revisit the invoice you were CC'ed
+on when BF sent it to the sponsor. Once the sponsor has paid, the invoice would
+be marked as PAID immediately. Feel free to reach out to Bridge Foundry at
+finance[at]bridgefoundry.org directly if you want something to be double-checked
+though.
 
 [our form]: http://goo.gl/forms/vOkyrWICtZXVImc12
 [invoice request form]: https://docs.google.com/forms/d/e/1FAIpQLSdUBNaXJP_DwF9wOQCKid1MnVM0a6yU5-i_7hvny7IMqCNLKw/viewform
