@@ -8,6 +8,8 @@ For coordinating a date with multiple people, we've found that [Doodle](https://
 
 Also, be aware of other events that may conflict on whatever date you're looking into. Ideally the event shouldn't compete with other well-known events that would cause potential participants or TAs to have a conflict.
 
+If such a conflict is unavoidable, try to make sure a similar conflict didn't occur in a recent event. "Did the last RailsBridge happen on Jogging Day? Try to avoid National Running Day for the next one."
+
 Some places to check for events are:
 
 * Public Boston Events: https://www.boston.gov/events
