@@ -72,8 +72,8 @@ workshop and invite them to the new Trello board.
 
 ## 8 weeks before (Sponsorship Coordinator)
 
-Start emailing potential sponsors. There's more in the [sponsorship
-document](/sponsorship.md).
+Start emailing potential sponsors. There's more info in the [finances
+document](/finances.md).
 
 ## 5 weeks before (Registration Coordinator)
 

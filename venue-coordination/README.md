@@ -5,6 +5,22 @@ The Venue Coordinator books a venue for the workshop as well as the after-party.
 Check out where we've held workshops previously
 [here](./previous-workshop-venues.md).
 
+## Finding A Date
+
+For coordinating a date with multiple people, we've found that [Doodle](https://doodle.com) is a great resource.
+
+Also, be aware of other events that may conflict on whatever date you're looking into. Ideally the event shouldn't compete with other well-known events that would cause potential participants or TAs to have a conflict.
+
+If such a conflict is unavoidable, try to make sure a similar conflict didn't occur in a recent event. "Did the last RailsBridge happen on Jogging Day? Try to avoid National Running Day for the next one."
+
+Some places to check for events are:
+
+* Public Boston Events: https://www.boston.gov/events
+* Lots of many other Boston events: https://www.bostonusa.com/events/events-calendar/
+* Jewish Holidays: https://www.hebcal.com/holidays/
+* Boston Public School Calendar: https://www.bostonpublicschools.org/calendar#calendar1/20180509/month
+* Cambridge Public School Calendar: https://www.cpsd.us/calendar
+
 
 ## Workshop Venue Guidelines
 ### Timeframes:
