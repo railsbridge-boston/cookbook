@@ -130,6 +130,7 @@ Prepare a slide deck with:
 * Schedule for Friday/Saturday
 
 We have sample slide decks in [the MC directory](/mc).
+We have a more detailed outline for MCing [here](/mc/mc-tips.md).
 
 ### Child Care Coordinator
 
@@ -206,6 +207,8 @@ programmers. Look at our [Friday TA pep talk](/TAs/giving-the-pep-talk.md#friday
     according to OSes
 * Go over any other logistics - e.g. where the bathrooms are, what's off limits
   (like anything in the NERD Center kitchen), etc.
+
+For more details go [here](/mc/mc-tips.md).
 
 #### Catering Coordinator
 
