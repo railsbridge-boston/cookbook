@@ -31,7 +31,7 @@ Get the TAs all together and emphasize the following points:
   who might be wondering the same thing.
 * It can be easy to cluster with the other TAs when it looks like participants
   don't need help. While talking to other TAs is fine, it can be intimidating
-  for a participcant to inturrupt conversations.
+  for a participant to interrupt conversations.
 * It's ok for TAs not to know the answer to every question. TAs should not feel
   bad asking other TAs for help. It actually sets a good example.
 * If there are error messages, explain what they mean and how they
