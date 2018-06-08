@@ -64,7 +64,7 @@
   * Emphasize that this is not a competition. The point of the workshop is to learn
   at a pace most comfortable to them.
 
-## End of the whrkshop
+## End of the workshop
 
 * Tell everyone the workshop is winding down.
 * Thank everyone for coming.
