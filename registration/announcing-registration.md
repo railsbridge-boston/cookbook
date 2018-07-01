@@ -26,6 +26,10 @@ Don't forget to unhide registrations links on the RailsBridge site:
 heroku config:set HIDE_REGISTRATION=false -a railsbridge-boston
 ```
 
+## Update map on the RBB site
+
+VENUE_MAP_URL is the environment variable to update in order to have the correct map appear on the RBB site.
+
 ## Mailchimp: Announce to the mailing list
 
 This will create a campaign to send the announcement to the Upcoming Workshops

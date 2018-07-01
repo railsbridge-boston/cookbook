@@ -31,6 +31,9 @@ after-party. There may be a room reservation fee or minimum drink and appetizer
 purchase amount depending on the venue. Use the RailsBridge Boston Bridge
 Foundry debit card.
 
+## Dietary restrictions & food allergies
+Label food so that people with dietary restrictions & food allergies can easily identify food they can eat. Try to set food up to not cross contaminate.
+
 ## Friday night: pizza and drinks - ~$500
 
 Cost: ~$500
