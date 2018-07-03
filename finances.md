@@ -84,3 +84,16 @@ vendor.
 The after-party tab can be paid in-person at the time of the after-party
 (recommended) or in advance over the phone. There may be a room reservation fee
 or minimum drink/appetizer purchase amount depending on the venue.
+
+### Tax Exemption
+
+Because Bridge Foundry is a non-profit organization, it means that we may be
+able to make purchases or place catering orders with a tax exemption. To do so,
+you'll need to provide Bridge Foundry's EIN to the vendor. This information can
+be found [here in the BF docs][bf-corp-docs].
+
+If the vendor asks for a document that proves exemption status, check out the
+"IRS exemption determination letter" link in the docs. There's also a downloaded
+copy in our Google Drive folder.
+
+[bf-corp-docs]: https://operations.bridgefoundry.org/corporate-docs/README/

@@ -1,4 +1,4 @@
-# Previous Workshop Venues
+# Previous Workshop Venues (Refer to google doc: https://docs.google.com/spreadsheets/d/1jb20RGtb_R0M0GQz2pg8cMPCN_ZKyOfVlsVe_kedWfc/edit?usp=sharing)
 
 We've used the following venues in the past:
 
