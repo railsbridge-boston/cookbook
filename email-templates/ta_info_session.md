@@ -24,6 +24,6 @@ We’ll be holding a few sessions, so select whatever times work for you. After 
 We’re looking forward to working with you!
 
 <Your Name>
-TA Coordinators
+TA Coordinator
 RailsBridge Boston
 ```
