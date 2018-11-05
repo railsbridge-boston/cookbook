@@ -31,10 +31,24 @@ Saturday 9:00am-5:30pm
 ** Ask if we can arrive earlier to accommodate catering arrivals
 
 ### Criteria to ask when looking for a space:
+We have many requirements, preferences, and nice-to-haves for coordinating a space. Listed in order of necessity:
+
+#### Top priority (we likely cannot make a space work if one of these is missing)
 * Free, preferably
-* Can hold up to 100 people
-* As accessible as possible (e.g. easy access to the T, parking available)
-* Has a separate space for childcare
+* Can hold 50-100 people (plan for about 50 students, plus TAs, organizers, and space for setting up food if there is not a separate "kitchen" area)
+* As accessible as possible (e.g. easy access to the T, parking available, has elevators if the event space is not on the first floor)
+* Allows childcare (we don't always need it, likely shouldn't accept venues with a no-children policy)
+* Has a decent presentation setup (desks, microphones, projector, outlets)
+
+#### High Priority
+* Has all genders restrooms (or will at least let us relabel restrooms temporarily for event)
+* Space for childcare is separate from event space
+* Allows for any caterer
+
+#### Nice-to-Haves
+* Has a separate kitchen area for food and drinks
+* Has a private mother's room that locks from the inside
+* Has someone from the company who will be helping us (or an Organizer works there)
 
 ### Questions to ask when evaluating a possible space:
 Presentation:
