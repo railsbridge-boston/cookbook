@@ -130,6 +130,7 @@ Prepare a slide deck with:
 * Schedule for Friday/Saturday
 
 We have sample slide decks in [the MC directory](/mc).
+We have a more detailed outline for MCing [here](/mc/mc-tips.md).
 
 ### Child Care Coordinator
 
@@ -147,7 +148,7 @@ care. Be sure to coordinate how payment will work with the sitter.
 
 ### Venue Coordinator
 
-Send NERD a list of names of everyone who might be there.
+Send the venue a list of names of everyone who might be there.
 
 * It must be submitted 3 days in advance so they can distribute it to the
   security desk.
@@ -159,7 +160,7 @@ Send NERD a list of names of everyone who might be there.
     > from 9:30am-5pm in the Mann/Sampson/Paul room
 
 * Send the list as a file attachment to nerdconf@microsoft.com, CC'ing whoever
-  our NERD Center contact is and the lead coordinators. Re-emphasize that we
+  our venue contact is and the lead coordinators. Re-emphasize that we
   want the desks set up in U shaped clusters.
 
 ### Registration Coordinator
@@ -205,11 +206,13 @@ programmers. Look at our [Friday TA pep talk](/TAs/giving-the-pep-talk.md#friday
   * make sure the TAs are evenly distributed across the room, especially
     according to OSes
 * Go over any other logistics - e.g. where the bathrooms are, what's off limits
-  (like anything in the NERD Center kitchen), etc.
+  (like anything in the venue kitchen), etc.
+
+For more details go [here](/mc/mc-tips.md).
 
 #### Catering Coordinator
 
-* Be at the NERD center when the delivery arrives before Friday night.
+* Be at the venue when the delivery arrives before Friday night.
 
 #### Organizer
 
