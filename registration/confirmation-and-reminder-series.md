@@ -6,28 +6,23 @@ You can usually send these from within eventbrite.
 
 We're looking forward to seeing you! Here are a few additional details.
 
-When:   
+When:
 
-- Friday, January 30, 7PM.  Pizza will be served.   
-- Saturday, January 31, 9:30AM.  Breakfast and lunch will be served.
+- Friday, 6PM. Pizza will be served.   
+- Saturday, 9:30AM. Breakfast and lunch will be served.
 
 Bring:  
 
 - your laptop
 - your power cord
 
-You should be able to install software on your laptop.  (Sometimes it's an issue for people borrowing laptops or using their work machine.)
+You should be able to install software on your laptop. (Sometimes it's an issue for people borrowing laptops or using their work machine.)
 
 Where:  
-General Assembly Boston  
-51 Melcher St.  
-Boston, MA 02210  
-https://goo.gl/maps/lEfiI
+{{ location }}
 
 Getting there:  
-
-- Public transportation: Take the Red Line to South Station and walk 6 minutes to 51 Melcher St.
-- Parking: Your best bet is the parking lot and garage on Necco St. (2 blocks over). You can also check out http://en.parkopedia.com/parking/51_melcher_street_boston_ma_united_states/ for other options.
+{{ instructions }}
 
 We look forward to seeing you.
 
