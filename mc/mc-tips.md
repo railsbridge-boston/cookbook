@@ -34,6 +34,17 @@
 * Start the workshop!
 * Keep the slide with the internet password on the board.
 
+### Typical Installfest Announcements
+
+* Welcome everyone to RailsBridge
+* Present a "when you're done installing" slide to set expectations for the night
+* Thank you to the sponsors
+* Invite sponsors to the stage to talk about their company
+* Thank you to the TAs
+* Invite the TAs to the stage for individual introductions
+* Introduce Installfest and and have a slide showing where to go (`docs.railsbridgeboston.org`)
+* Close out the night and remind everyone that breakfast starts at 9:30am
+
 ## Presentations during the workshop
 
 * Introduce each presenter before they speak.
