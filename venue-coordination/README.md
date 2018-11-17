@@ -58,7 +58,6 @@ Presentation:
 
 Space:
 * Is there another person from the company that will be helping us?
-* Will there be someone around to let us in on both days?
 * Are there power strips (~4)? Are there sufficient outlets in the floor/along the walls?
 * Can the HVAC be adjusted during the event? If not, how do we ensure the temperature is comfortable? (Note: having 100 people in a room will make it very warm.)
 
