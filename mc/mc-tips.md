@@ -37,23 +37,50 @@
 ### Typical Installfest Announcements
 
 * Welcome everyone to RailsBridge
-  * Welcome is probably along the lines of encouraging people to get food if they haven’t yet, find a comfortable spot, log into Wi-Fi, etc. At this point people may still be arriving based on when they get out of work/how far they have to travel
-* Present a "when you're done installing" slide to set expectations for the night
-  * This might be helpful in terms of framing what the goals of the night and the weekend are. That the goal of Fri is basically "get your stuff up and running so that we can start on the rails curriculum tomorrow", and "learn a little bit about the command line". Sometimes people are confused because they don’t actually start learning ruby until Saturday
+  * Encouraging people to get food if they haven’t yet
+  * Find a comfortable spot
+  * Log into Wi-Fi, etc.
+  * At this point people may still be arriving based on when they get out of work/how far they have to travel
+* Present a "when you're done installing" slide to set expectations for the night:
+  * Get up and running so that we can start on the rails curriculum tomorrow
+  * learn a little bit about the command line
+  * Sometimes people are confused because they don’t actually start learning ruby until Saturday
 * Thank you to the sponsors
-  * Awesome, sponsors! There might be some overlap between TAs and people representing sponsors. In which case probably the sponsor intro is more about what the company does/what their stack is/are they hiring/whatever.
 * Invite sponsors to the stage to talk about their company
-  * Invite TAs up. Your name, pronouns, what you love about being in tech, and who is someone who helped you on your coding journey?
-* Thank you to the TAs
-* Invite the TAs to the stage for individual introductions
-  * Your name, pronouns, what you love about being in tech, and who is someone who helped you on your coding journey?
-  * Lead into what the role of TAs are. They are here for you to ask questions, help you get unstuck, debug with you. And that starts with installfest!
-* Introduce Installfest and and have a slide showing where to go (`docs.railsbridgeboston.org`)
+  * What the company does
+  * What their stack is
+  * Are they hiring
+
+There might be some overlap between TAs and people representing sponsors. In which case probably the sponsor intro is more about what the company does/what their stack is/are they hiring/whatever. They're also welcome to talk about why the company wanted to get involved.
+
+* Invite TAs up to thank and introduce them
+  * Example intro:
+    * Name
+    * Pronouns
+    * One other question
+  * Possible other questions are:
+    * What do you love about being in tech?
+    * Who is someone who helped you on your coding journey?
+  * Lead into what the role of TAs are.
+    * Here for you to ask questions
+    * Help you get unstuck
+    * Debug with you
+* Introduce Installfest:
+  * We're going to get your computers ready to code!
+  * Have a slide showing where to go (`docs.railsbridgeboston.org`)
+  * Emphasize the _boston_ part of the URL because there is also `docs.railsbridge.org` which looks very similar but has very different content
 * Introduce the "Intro the command line" talk
-  * Poll TAs when we get about 50% of people up and running. At this point we can pause for the command line talk. The TA coordinator will know who's giving it. Then the people who are done can peace out afterwards, and those who still have installing to do can continue with help from TAs.
+
+Poll TAs: when we get about 50% of people up and running. At this point we can pause for the command line talk. The TA coordinator will know who's giving it. Then the people who are done can peace out afterwards, and those who still have installing to do can continue with help from TAs.
+
+* Thank the presenter and show a link to the presenter's slides (if available).
 * Keep the workshop going and let people know they can leave when they're done
-  * After the Intro to CL talk might be a good time for you to go up, thank the presenter, and show the "when you’re done installing" slide, because at that point people can start leaving if they’re done or sticking around if they need more help installing.
-* Close out the night and remind everyone that breakfast starts at 9:30am
+  * Show a "when you’re done installing" slide
+    * Encourage attendees to continue working through the install instructions
+    * If they're done, they're can head home
+* Close out the night and remind everyone
+  * what time breakfast will be delivered
+  * when the workshop begins
 
 ## Presentations during the workshop
 
