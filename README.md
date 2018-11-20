@@ -207,6 +207,8 @@ programmers. Look at our [Friday TA pep talk](/TAs/giving-the-pep-talk.md#friday
     according to OSes
 * Go over any other logistics - e.g. where the bathrooms are, what's off limits
   (like anything in the venue kitchen), etc.
+* Announce that photography will be taking place for social media and marketing
+  purposes. Remind people that red dots are available at the sign-in desk.
 
 For more details go [here](/mc/mc-tips.md).
 
@@ -235,6 +237,7 @@ programmers. Look at our [Saturday TA pep talk](/TAs/giving-the-pep-talk.md#satu
 * Re-welcome everyone
 * Go over the plan for the day
 * Thank sponsors again
+* Remind about photography and the red stickers again
 * Have TAs form small groups
 * Announce meals
 * Mention after-party - how to get there, what is covered, who's sponsoring
