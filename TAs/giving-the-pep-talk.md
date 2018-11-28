@@ -2,7 +2,17 @@
 
 ## Friday
 
-Get the TAs all together and emphasize the following points:
+Get all the TAs together
+
+* Thank them all for coming. They have dedicated their weekend to helping out
+  at RailsBridge!
+* Ask everyone to introduce themselves. During the introduction, have them say
+  which coding languages they're most familiar with and what operating systems
+  they regularly use. If someone uses Windows, the other TAs will know who to
+  go to with common Windows questions.
+* Go over what to expect during installfest.
+
+Make sure to emphasize the following points:
 
 * Never, ever take the keyboard away from people. It's hard, but guide them
   through doing things themselves.
@@ -11,16 +21,19 @@ Get the TAs all together and emphasize the following points:
   people will hear it.
 * Be careful using jargon as it might be intimidating.
 * Support other TAs when they present. It also helps to be available in case the presenter gets a tricky question. Feel free to raise your hand if you can help answer it. It's also okay to take a break during presentations. Resting your feet is fine, but please take any conversations outside.
-* Try not use words like "simple", "easy", or "just". The attendees are _brand new_ and it isn't easy! Encourage their questions and make them feel like they're doing it right by running into problems
+* Try not use words like "simple", "easy", or "just". The attendees are _brand new_ and it isn't easy! Encourage their questions and make them feel like they're doing it right by running into problems.
 * The thumb drives are not for students to keep. We need those all back!
 
 ## Saturday
 
 Get the TAs all together and emphasize the following points:
 
-* Go over [Friday] points again
-* Sometimes people just don't ask questions. Check in with people every so
-  often; a quick "Can I help anyone? Are you suuuure?" can go a long way.
+* Go over [Friday] points again.
+* If there is going to be a lunch time Q&A session, give a brif overview of what
+  the session will look like. Tell the TAs they're welcome to participate, but
+  there's no pressure to do so.
+* Sometimes people just don't ask questions. Check in with people every so often;
+  a quick "Can I help anyone? Are you suuuure?" can go a long way.
 * Remind participants that there are no "stupid questions".
 * Encourage participants to post their question(s) in the Slack channel or Google
   doc as well as the answer if/when they have it. That way they can help others
