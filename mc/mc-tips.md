@@ -79,7 +79,7 @@ Poll TAs: when we get about 50% of people up and running. At this point we can p
     * Encourage attendees to continue working through the install instructions
     * If they're done, they're can head home
 * Close out the night and remind everyone
-  * what time breakfast will be delivered
+  * what time breakfast will be served
   * when the workshop begins
 
 ## Presentations during the workshop
