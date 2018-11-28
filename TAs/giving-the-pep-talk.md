@@ -33,3 +33,11 @@ Get the TAs all together and emphasize the following points:
 * If there are error messages, explain what they mean and how they
   point to where the problem might be.
 * Encourage TAs to give out their contact information if they want to.
+
+## Introductions
+
+TAs will also be asked at the beginning of each day to get up in front of the room and introduce themselves. Remind them with something like this:
+
+> During tonight's event, So-and-so, our MC, will call all the TAs up to the stage for a brief introduction and thank you. Each TA will introduce themselves by sharing their name, pronouns, and someone who has helped you on your coding journey.
+>
+> Example: "My name is Stephanie. I go by the pronouns 'she' and 'her'. I have received help from so many people, it's hard to choose just one. The two people that have helped me the most are friend So-and-so for their emotional support and my brother, who is a developer."

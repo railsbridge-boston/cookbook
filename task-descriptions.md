@@ -56,9 +56,11 @@ Keep an eye on time - allow for flexibility, but also make sure we're moving alo
 
 Time commitment: part or all of the workshop; selecting && emailing photos afterward
 
+* Always ensure consent fron your subjects.
 * Take brilliant pictures.
-* Post them to twitter?
-* Send them to a workshop coordinator to post on the RailsBridge Boston website or on Twitter.
+* Post them to twitter!
+* Post them to a folder for the event in G Drive: https://drive.google.com/drive/u/0/folders/1nvGBaLCOxtRo8zRWnH3EqYd91-VODYlR
+* Drop a link to the folder in Slack #railsbridge.
 
 ## Curriculum
 
