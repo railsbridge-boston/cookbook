@@ -11,6 +11,7 @@ Get all the TAs together
   they regularly use. If someone uses Windows, the other TAs will know who to
   go to with common Windows questions.
 * Go over what to expect during installfest.
+* Remind the TAs that it's ok for them to ask each other questions, too
 
 Make sure to emphasize the following points:
 
