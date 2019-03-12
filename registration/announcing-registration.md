@@ -37,6 +37,7 @@ mailing list.
 
 NOTE: This can be done ahead of time and saved until the announcement can be
 sent out.
+ALSO NOTE: Some of this interface is somewhat confusing and possibly unclear since the last time this page was updated. Use these steps as a guide, not as a required checklist. You maybe have to improvise and use some best judgement to get this done. But you're smart and can totally handle it.
 
 First, sign in to Mailchimp using the credentials [here].
 
@@ -53,23 +54,24 @@ First, sign in to Mailchimp using the credentials [here].
   3. Personalize the `To:` field: `*|FNAME|*`
   4. From Name: RailsBridge Boston / railsbridgeboston@gmail.com
   5. Email subject: Next RailsBridge Boston Workshop - Applications Open
-9.  Go to next step
+9. Click `Design Email` to go to next step
 10. Select "Saved Templates"
 11. Select the appropriate workshop announcement template, i.e. either the Ruby
    one or the Rails one.
 12. Select the corresponding section to edit the following information:
-   1. Meta text at very top: "RailsBridge Boston [Month] workshop registration
+   1. Note: Likely most of this is in place already :)
+   2. Meta text at very top: "RailsBridge Boston [Month] workshop registration
       is open!"
-   2. Main content: "[Month] Workshop"
-   3. Main content:  Dates, location, and URLs
-   4. Add any mentions of sponsors if necessary
-   5. Update what the workshop will cover: is it Ruby basics or Rails?
-   6. Likely most of this is in place already :)
+   3. Main content: "[Month] Workshop"
+   4. Main content:  Dates, location, and URLs
+   5. Add any mentions of sponsors if necessary
+   6. Update what the workshop will cover: is it Ruby basics or Rails?
 13. Save & Close
-14. Click on "Edit" next to Setting & Tracking at the bottom of the page and make sure Track opens is checked
-15. Preview and test - look it over, send yourself a test email.
-16. Find the very small "Edit" link on the campaign page near the Plain-Text email explanation and click it to make sure the formatting isn't wonky
-17. Exit if you are not ready to send the campaign; send now or schedule if you are.
+14. Click on `Edit` next to Setting & Tracking at the bottom of the page and make sure Track opens is checked
+15. Click `Save`
+16. Preview and test - look it over, send yourself a test email.
+17. Find the very small "Edit" link on the campaign page near the Plain-Text email explanation and click it to make sure the formatting isn't wonky
+18. Exit if you are not ready to send the campaign; send now or schedule if you are.
 
 ## Announce on twitter
 
