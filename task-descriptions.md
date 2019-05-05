@@ -4,6 +4,7 @@
 * [Social media](#social-media)
 * [Workshop MC](#workshop-mc)
 * [Photography](#photography)
+* [Curriculum](#curriculum)
 * [Installfest](#installfest)
 * [Teaching Staff](#teaching-staff)
 * [e-books and Giveaways](#e-books-and-giveaways)
@@ -161,47 +162,34 @@ coordinate with the catering/venue and childcare coordinators.
 There's a detailed [How To: Registration](./How To: Registration.md) page.
 
 ## Childcare
+Thanks for volunteering to do childcare! It will be your job to book a sitter (or more than one) so that parents can come to the workshop for free. You'll handle finding sitters, communicating between the sitter and the parents, paying the sitter (you'll be reimbursed), and generally keeping everything around childcare flowing smoothly.
+
 Registration provides a list with the names, phone numbers, and email addresses
 of the students interested in getting childcare.
 
 Registration should also explain how it works:
-* We use [Parents in a Pinch](http://www.parentsinapinch.com/), where one sitter
-comes to the attendee's house with no cost to the attendee.
-* thoughtbot pays directly to PiaP.
-* Parent can't replace PiaP with their own sitter because thoughtbot can't
-reimburse the expense.
-* We'll call them closer to the workshop dates to confirm ther need for backup
-childcare.
+* We use [UrbanSitter], where one or more sitters come to our venue to watch the children at no cost to the parents.
+* thoughtbot will pay for childcare but they need a receipt. If you can, pay for the sitter yourself and we can get a reimbursement afterwards. If you're not comfortable with that, please ask about getting RailsBridge to pay up front.
+
+### The week of the event you will book the sitters
+
+_Keep in mind that this is a pretty tight timeline to make sure parents can get back to you with childcare needs and book a sitter so you'll need to make sure you're on top of this._
 
 On the week of the workshop, confirm they still need childcare as they may have
 changed their plans.
 
-Call PiaP and:
-* Say that we're running a workshop called "RailsBridge Boston", where a sponsor
-will be covering backup (in-home) childcare for our attendees.
-* Mention when the workshop is happening.
-* Mention that thoughtbot will call and provide payment information.
-* Tell them the expected number of parents requesting the service.
-* Get a deadline from them as to when the parent should call in by.
+* To book a sitter you'll need:
+  * the RailsBridge UrbanSitter login (in 1Password)
+  * the number of children who need childcare (get this from the registration coordinator)
+* visit [UrbanSitter], log in, and start booking a sitter
+* You can pick a sitter explicitly **or** post the job to the sitter community. Posing to the wider community is the recommended approach because we got about 20 responses within a couple of days.
+* We aim for about $20/hour for a sitter.
+* Keep in touch with that sitter during the process so they know what to expect (how to get in the venue, when meals are, any special child needs, or anything else)
+* Greet the sitter at the start of the event and help them get setup in their space
+* Check in with them periodically during the event to see if they need anything (food, supplies, etc)
+* Afterward, UrbanSitter will give you a bill that you can pay. Save that bill as a PDF to send to thoughtbot. You can send that PDF to someone who works at thoughtbot and they can start the reimbursement process for you.
 
-Ask thoughtbot to make the call and provide CC info.
-
-Contact each (confirmed) parent and have them call PiaP with the following
-information:
-* They're requesting childcare paid through a RailsBridge Boston sponsor
-* Number of children they need care for and their ages
-* Street address
-* Days and hours in which they would require care
-* Phone number
-
-One of the last few times childcare was actually requested, the cost was
-structured as $30/hr with a 4 hour minimum. There is a $30 cancellation fee for
-each sitter.
-
-Check the PiaP website for any updates on how any of this might work and then
-update these instructions accordingly.
-
-[PiaP]: http://www.parentsinapinch.com/
+[UrbanSitter]: https://www.urbansitter.com/app/parent-dashboard
 
 Thank you [thoughtbot](http://thoughtbot.com/), you're are awesome!
 
