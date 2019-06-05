@@ -19,6 +19,8 @@ contact(s).
 * Installfest Coordinator
 * MC
 
+A summary of each role's responsibilities can be found [here](/overview-of-roles.md).
+
 ## 6 months before
 
 ### Venue Coordinator
