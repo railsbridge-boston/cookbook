@@ -19,27 +19,6 @@ contact(s).
 * Installfest Coordinator
 * MC
 
-## Answering email (Organizer)
-
-This is year-round task that involves monitoring the inbox and answering any
-questions about the organization or the events we run.
-
-We use [Inbox by Zendesk][inbox] to manage emails sent to the RBB. Anything that
-is sent to the RBB address is automatically forwarded to our personal ones.
-
-If there are multiple people managing the inbox, please make sure to assign
-yourself to the email threads that you are participating in. If a conversation
-is complete, please also mark it as "Done".
-
-Checking in on a weekly basis in between workshops should suffice. As we get
-closer to a workshop though, the inbox should be checked more frequently since
-people may have last-minute questions, cancellations, or maybe child care requests.
-
-It would also be good to check often right after a workshop has happened as
-well.
-
-[inbox]: https://www.zendesk.com/inbox/
-
 ## 6 months before
 
 ### Venue Coordinator
@@ -60,15 +39,6 @@ to the app, ask a Lead Organizer for access or for them to update it for you.
 The RailsBridge Boston website will automatically fetch details about the event
 and display it. For now, hide that section temporarily by setting the
 `HIDE_REGISTRATION` variable to `true`.
-
-## 3 months before (Organizer)
-
-Create a new Trello board based on the [Workshop Template].
-
-Set up a meeting for everyone who's interested in coordinating for the next
-workshop and invite them to the new Trello board.
-
-[Workshop Template]: https://trello.com/b/AIqOY0yW/workshop-template
 
 ## 8 weeks before (Sponsorship Coordinator)
 
@@ -168,20 +138,6 @@ Send the venue a list of names of everyone who might be there.
 If applicable, send an Eventbrite email to everyone about remembering their IDs
 for front security.
 
-## Friday afternoon (Organizer)
-
-Get the following together to bring to the Installfest:
-
-* 2 or 3 devices with Eventbrite check-in app installed
-* Name tags (preprinted)
-* Blank Hi-My-Name-Is name tags
-* 2 hardcopies of attendee & TA list in case of manual check-in or front desk lost copy
-* Sharpie markers
-* RailsBridge stickers to give away
-* Raffle tickets if a sponsor is doing a giveaway
-* Colored dot stickers
-* 15 USB flash drives with *updated* installation software
-* 2 colors of post-it notes ("I'm all set" & "I have a question")
 
 ## Friday Night (everyone)
 
@@ -215,15 +171,6 @@ For more details go [here](/mc/mc-tips.md).
 #### Catering Coordinator
 
 * Be at the venue when the delivery arrives before Friday night.
-
-#### Organizer
-
-* Bring badges for TAs
-* Bring colored dot stickers for students so we know they went through the
-  Installfest
-* Handle Eventbrite check-ins as detailed [here][friday-registration]
-
-[friday-registration]: /registration/setting-up-registration.md#friday-of-the-workshop
 
 ## Saturday, the big event (Everyone)
 
