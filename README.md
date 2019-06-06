@@ -8,9 +8,7 @@ Ask a lead organizer for access to credentials to the various services we use.
 Here's a list of roles that are involved in organizing a workshop:
 
 * 1-2 Lead Organizers
-* Venue Coordinator - The venue may change with each workshop. Whoever does it
-should commit to owning the process and maintaining communication with the venue
-contact(s).
+* Venue Coordinator
 * Registration Coordinator
 * Catering Coordinator
 * Sponsorship Coordinator
@@ -20,11 +18,6 @@ contact(s).
 * MC
 
 ## 6 months before
-
-### Venue Coordinator
-
-Book a venue for the event. See
-[guidelines](/venue-coordination/README.md#workshop-venue-guidelines).
 
 ### Registration Coordinator
 
@@ -70,12 +63,6 @@ more information, see [this document](/catering.md).
 
 ## 1 week before
 
-### Venue Coordinator
-
-Find and book a bar/restaurant for our after-party at least a week in advance.
-See the guidelines
-[here](/venue-coordination/README.md#after-party-venue-guidelines).
-
 ### Installfest Coordinator
 
 Make sure the docs are updated and any changes to Installfest VMs are live on
@@ -115,23 +102,6 @@ Use Sitter City to find a sitter that would accommodate the children that need
 care. Be sure to coordinate how payment will work with the sitter.
 
 ## 3 days before
-
-### Venue Coordinator
-
-Send the venue a list of names of everyone who might be there.
-
-* It must be submitted 3 days in advance so they can distribute it to the
-  security desk.
-* Include all attendees, coordinators, TAs, guests, and waitlist names.
-* Include the name of the event, dates, and room in the body of the email. For
-  example.:
-
-    > RailsBridge Boston event on 10/4/2013 from 7pm-10pm and 10/5/2013
-    > from 9:30am-5pm in the Mann/Sampson/Paul room
-
-* Send the list as a file attachment to nerdconf@microsoft.com, CC'ing whoever
-  our venue contact is and the lead coordinators. Re-emphasize that we
-  want the desks set up in U shaped clusters.
 
 ### Registration Coordinator
 
