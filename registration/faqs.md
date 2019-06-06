@@ -17,4 +17,9 @@ Invite them to join the [announcement list](http://eepurl.com/vwrQT) so they'll 
 
 **Can someone come on Saturday only?**
 
-We tried it and it didn't work. Everyone has to come to Installfest so their machine is ready to go on Saturday. We can't catch someone up before the lecture, especially when the network is overloaded. We also cover some foundational materials on Friday, like using the command line, that they'll need for Saturday's curriculum.
+We strongly prefer that they come both days because the software installation
+and setup can be tricky, but we do understand that circumstances can make it
+difficult to attend on Friday.
+
+If they can really only come in on Saturday, then we recommend that they arrive
+~30 minutes earlier so that a TA can help them catch up.
