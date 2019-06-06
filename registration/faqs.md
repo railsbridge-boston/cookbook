@@ -2,7 +2,10 @@
 
 **How many spots can we offer?**
 
-Ideally every seat will be filled, but it's challenging. The fire code gives us a hard limit of how many people may be at the workshop site. There are always cancellations, but we don't have a good formula to predict how many. Most cancellations come in on Friday, and many waitlisters have made other plans. We're going to track attendance better so we have more data.
+Ideally every seat will be filled, but it's challenging. There are always
+cancellations - many of which happen on Friday. Generally speaking, we've been
+seeing 50% of the signups + 90% of all volunteers (including organizers)
+actually show up.
 
 **I'm on the waitlist. Should I plan to come?**
 
