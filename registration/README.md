@@ -1,5 +1,8 @@
 # Registration Coordinator
 
+As a Registration Coordinator, you'll be the one setting up, maintaining, and
+troubleshooting registration leading up to the event.
+
 ## As soon as venue is booked
 
 Create a draft of the registration page.
