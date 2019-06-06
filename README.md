@@ -19,6 +19,10 @@ contact(s).
 * Installfest Coordinator
 * MC
 
+**Interested in being a TA?** Get on our [volunteer mailing list] to hear when the next signup is!
+
+[volunteer mailing list]: http://eepurl.com/bjdkKv
+
 ## 6 months before
 
 ### Venue Coordinator
@@ -141,11 +145,6 @@ for front security.
 
 ## Friday Night (everyone)
 
-#### TA Coordinator
-
-Remind the TAs about the kind of conduct we expect and how to talk to new
-programmers. Look at our [Friday TA pep talk](/TAs/giving-the-pep-talk.md#friday).
-
 #### MC
 
 * Welcome everyone
@@ -173,11 +172,6 @@ For more details go [here](/mc/mc-tips.md).
 * Be at the venue when the delivery arrives before Friday night.
 
 ## Saturday, the big event (Everyone)
-
-#### TA Coordinator
-
-Remind the TAs about the kind of conduct we expect and how to talk to new
-programmers. Look at our [Saturday TA pep talk](/TAs/giving-the-pep-talk.md#saturday).
 
 #### MC
 
