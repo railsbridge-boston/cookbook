@@ -25,6 +25,8 @@ during preparation. A second organizer lets you balance the load.
 * Oversee all coordinators and their progress in their respective areas.
 * Answer general questions about the workshop.
 
+[Details](lead-organizer.md).
+
 ## Marketing Coordinator
 
 **Time commitment:** 1 hour per week. Ideally, ongoing. Otherwise starts
