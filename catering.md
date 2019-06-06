@@ -1,7 +1,7 @@
 # Catering
 
 Catering is the biggest budget item for RailsBridge and a major part of the
-event. We typically do the following, based on 50-60 people at the workshop:
+event. We typically do the following, based on 50-60 people (students, organizers, and TAs) at the workshop:
 
 ## Instructions
 
