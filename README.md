@@ -30,36 +30,10 @@ contact(s).
 Book a venue for the event. See
 [guidelines](/venue-coordination/README.md#workshop-venue-guidelines).
 
-### Registration Coordinator
-
-Once a space has been booked, create a *private* (password-protected) copy of
-the most recent Eventbrite event. Instructions are in the [eventbrite
-doc](/registration/eventbrite.md).
-
-Copy the event ID from the Eventbrite URL and update the `NEXT_EVENT_ID`
-environment variable on Heroku using that value. If you don't have Heroku access
-to the app, ask a Lead Organizer for access or for them to update it for you.
-
-The RailsBridge Boston website will automatically fetch details about the event
-and display it. For now, hide that section temporarily by setting the
-`HIDE_REGISTRATION` variable to `true`.
-
 ## 8 weeks before (Sponsorship Coordinator)
 
 Start emailing potential sponsors. There's more info in the [finances
 document](/finances.md).
-
-## 5 weeks before (Registration Coordinator)
-
-Update any necessary information on the event page (check the Eventbrite docs).
-
-Open up registration. Step-by-step information on announcing the newly-open
-registration is in [this document](/registration/announcing-registration.md).
-
-Unhide registration on the website by setting `HIDE_REGISTRATION` to `false`.
-
-Plan to spend 30-60 minutes per day on the RBB email account after registration
-opens; we have some [answers to FAQs](/registration/setting-up-registration.md#faqs).
 
 ## 1.5 weeks before (Catering Coordinator)
 
@@ -88,12 +62,6 @@ the website.
 Run the [spoon-building
 script](https://github.com/railsbridge-boston/spoon-builder) to update the
 download files.
-
-### Registration Coordinator
-
-Remind attendees about attending (instructions [here][remind]).
-
-[remind]: /registration/setting-up-registration.md#week-of-workshop
 
 ### MC
 
@@ -136,12 +104,6 @@ Send the venue a list of names of everyone who might be there.
 * Send the list as a file attachment to nerdconf@microsoft.com, CC'ing whoever
   our venue contact is and the lead coordinators. Re-emphasize that we
   want the desks set up in U shaped clusters.
-
-### Registration Coordinator
-
-If applicable, send an Eventbrite email to everyone about remembering their IDs
-for front security.
-
 
 ## Friday Night (everyone)
 
