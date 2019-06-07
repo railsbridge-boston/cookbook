@@ -1,10 +1,5 @@
 # Announcing Registration
 
-All credentials for Mailchimp, Eventbrite, Twitter, etc can be found in [this
-repo][credentials].
-
-[credentials]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
-
 ## Make the event live
 
 Sign into Eventbrite and find the appropriate event in [Your Events][events].
@@ -18,30 +13,30 @@ Click "Edit" on the event and ensure the dates in the event description are corr
 Then click the "Manage" tab and click "Order confirmation" in the left sidebar.
 Ensure the dates for all of the order confirmation text are correct too.
 
-## Unhide registration links on the RBB site
+## RailsBridge Boston website
 
-Don't forget to unhide registrations links on the RailsBridge site:
+To show the registration link on the website, we need to set the following
+environment variables:
 
-```
-heroku config:set HIDE_REGISTRATION=false -a railsbridge-boston
-```
+|variable|value|
+|---|---|
+|`HIDE_REGISTRATION`|`true`/`false`|
+|`EVENT_URL`|registration URL|
+|`VENUE_NAME`|name of the venue|
+|`VENUE_ADDRESS`|full address of venue|
+|`VENUE_MAP_URL`|Google Maps embed URL|
 
-## Update map on the RBB site
-
-VENUE_MAP_URL is the environment variable to update in order to have the correct map appear on the RBB site.
-
-## Mailchimp: Announce to the mailing list
+## MailChimp
 
 This will create a campaign to send the announcement to the Upcoming Workshops
 mailing list.
 
 NOTE: This can be done ahead of time and saved until the announcement can be
 sent out.
+
 ALSO NOTE: Some of this interface is somewhat confusing and possibly unclear since the last time this page was updated. Use these steps as a guide, not as a required checklist. You maybe have to improvise and use some best judgement to get this done. But you're smart and can totally handle it.
 
-First, sign in to Mailchimp using the credentials [here].
-
-[here]: https://github.com/railsbridge-boston/private/blob/master/credentials.md
+First, sign in to Mailchimp.
 
 1. Click "Create" in the top right of the dashboard
 2. Select "Email Campaign" and go to the next step
@@ -73,6 +68,6 @@ First, sign in to Mailchimp using the credentials [here].
 17. Find the very small "Edit" link on the campaign page near the Plain-Text email explanation and click it to make sure the formatting isn't wonky
 18. Exit if you are not ready to send the campaign; send now or schedule if you are.
 
-## Announce on twitter
+## Twitter
 
-Sign in to Twitter and tweet about the workshop, linking to the Eventbrite page.
+Sign in to Twitter and tweet about the workshop, linking to the event page.

@@ -8,20 +8,20 @@ We're looking forward to seeing you! Here are a few additional details.
 
 When:
 
-- Friday, 6PM. Pizza will be served.   
+- Friday, 6PM. Pizza will be served.
 - Saturday, 9:30AM. Breakfast and lunch will be served.
 
-Bring:  
+Bring:
 
 - your laptop
 - your power cord
 
 You should be able to install software on your laptop. (Sometimes it's an issue for people borrowing laptops or using their work machine.)
 
-Where:  
+Where:
 {{ location }}
 
-Getting there:  
+Getting there:
 {{ instructions }}
 
 We look forward to seeing you.
@@ -49,7 +49,7 @@ The RailsBridge Boston Team
 ### Attendee Reminder email
 
 * Who: Participants
-* When: ~1 week before the workshop
+* When: ~1-2 weeks before the workshop
 * Why: To check for cancellations
 
 A Message from RailsBridge Boston:
@@ -68,5 +68,3 @@ If you have any questions or concerns, please feel free to contact us.
 Looking forward to meeting you all!
 
 The RailsBridge Boston Team
-
-
