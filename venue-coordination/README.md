@@ -5,7 +5,7 @@ The Venue Coordinator books a venue for the workshop as well as the after-party.
 Check out where we've held workshops previously
 [here](./previous-workshop-venues.md).
 
-## Finding A Date
+## Decide on a date
 
 For coordinating a date with multiple people, we've found that [Doodle](https://doodle.com) is a great resource.
 
@@ -21,87 +21,23 @@ Some places to check for events are:
 * Boston Public School Calendar: https://www.bostonpublicschools.org/calendar#calendar1/20180509/month
 * Cambridge Public School Calendar: https://www.cpsd.us/calendar
 
-## Workshop Venue Guidelines
-### Timeframes:
-Friday 6:00-9:30pm
-<br>
-Saturday 9:00am-5:30pm
+## 3-5 months before (or as soon as a date is set)
 
-** 30-minute catering deliveries up at the beginning included <br>
-** Ask if we can arrive earlier to accommodate catering arrivals
+Find a workshop venue based on [these guidelines](venue-guidelines.md#workshop-venue).
 
-### Criteria to ask when looking for a space:
-We have many requirements, preferences, and nice-to-haves for coordinating a space. Listed in order of necessity:
+## 2 weeks before
 
-#### Top priority (we likely cannot make a space work if one of these is missing)
-* Free, preferably
-* Can hold 50-100 people (plan for about 50 students, plus TAs, organizers, and space for setting up food if there is not a separate "kitchen" area)
-* As accessible as possible (e.g. easy access to the T, parking available, has elevators if the event space is not on the first floor)
-* Allows childcare (we don't always need it, likely shouldn't accept venues with a no-children policy)
-* Has a decent presentation setup (desks, microphones, projector, outlets)
+Find and book a bar/restaurant for our after-party at least a week in advance.
+See the guidelines
+[here](/venue-coordination/README.md#after-party-venue-guidelines).
 
-#### High Priority
-* Has all genders restrooms (or will at least let us relabel restrooms temporarily for event)
-* Space for childcare is separate from event space
-* Allows for any caterer
+## 2 days before
 
-#### Nice-to-Haves
-* Has a separate kitchen area for food and drinks
-* Has a private mother's room that locks from the inside
-* Has someone from the company who will be helping us (or an Organizer works there)
+If the venue has building security, they generally require a list of everyone who will be attending the workshop. If so, do the following:
 
-### Questions to ask when evaluating a possible space:
-Presentation:
-* Are there microphones? Are they rechargeable? Does the venue supply you with replaceable batteries?
-* Is there a microphone stand? Wireless?
-* How do you lower the projector?
-
-Space:
-* Is there another person from the company that will be helping us?
-* Are there power strips (~4)? Are there sufficient outlets in the floor/along the walls?
-* Can the HVAC be adjusted during the event? If not, how do we ensure the temperature is comfortable? (Note: having 100 people in a room will make it very warm.)
-
-Accessibility:
-* Is it wheelchair accessible?
-* Is it easily accessible by public transit?
-
-Childcare:
-* Dedicated area for babysitter + children
-* Is there a mother’s room that can be locked from the inside?
-
-Bathroom:
-* Is there a gender neutral bathroom?
-
-Security:
-* How far in advance do we need to give the venue our guest list?:
-* Is there a security guard downstairs? Who do we give the guest list to?
-* Do we have access to the building over the weekend? Is the building door locked?
-
-Catering
-* Are all caterers allowed?
-
-### Questions to ask when the weekend of the event:
-
-Wifi:
-* Password?
-* SSID?
-
-Space:
-* How do you dim the lights?
-* Is there a room where you can store the supplies for the night?
-* Will there be construction during the time of the venue?
-* Is the conference room locked? (since the event occurs on the weekends and after work hours)
-
-Trash
-* If the trash overflows what can we do?
-
-## After-Party Venue Guidelines
-
-### Criteria:
-
-* Within walking distance
-* Holds at least 20-30 people, sitting and/or standing
-
-Calling the venue about a week ahead of time should be fine.
-
-See [this doc](./previous-after-party-venues.md) for where we've gone before.
+* Get a guest list from the Registration Coordinator. This should include:
+  - students
+  - volunteers (TAs, organizers, etc.)
+  - sponsors
+  - child care providers
+* Send your venue Point of Contact the guest list.
