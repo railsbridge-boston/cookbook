@@ -133,3 +133,5 @@ first and last hours of workshops to meet with parents and sitter.
 * Book a sitter (or more than one).
 * Introduce parents and sitter(s) to each other.
 * Follow up with both at the conclusion of workshop.
+
+See [childcare docs](/childcare/README.md).
