@@ -4,7 +4,7 @@
 * [Marketing Coordinator](#marketing-coordinator)
 * [Workshop MC](#workshop-mc)
 * [Installfest Expert](#installfest-expert)
-* [Teaching Staff Coordinator](#teaching-staff-coordinator)
+* [Volunteer Coordinator](#volunteer-coordinator)
 * [Sponsorship Coordinator](#sponsorship-coordinator)
 * [Venue Coordinator](#venue-coordinator)
 * [Catering Coordinator](#catering-coordinator)
@@ -61,7 +61,7 @@ Friday night of workshop.
 * Review installation instructions.
 * Serve as main point of contact for questions about software installation.
 
-## Teaching Staff Coordinator
+## Volunteer Coordinator
 
 **Time commitment:** 3-4 hours per week + entire workshop. Starts 3 weeks before the workshop.
 
