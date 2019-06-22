@@ -17,6 +17,8 @@ Here's a list of roles that are involved in organizing a workshop:
 * Installfest Coordinator
 * MC
 
+A summary of each role's responsibilities can be found [here](/overview-of-roles.md).
+
 **Interested in being a TA?** Get on our [volunteer mailing list] to hear when the next signup is!
 
 [volunteer mailing list]: http://eepurl.com/bjdkKv
