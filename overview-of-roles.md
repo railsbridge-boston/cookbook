@@ -119,7 +119,7 @@ first 1-2 hours each day of the workshop.
 * Generate reports and guest lists as needed for venue, catering, child care, etc.
 * Coordinate check-in at workshop.
 
-See [How To: Registration](./How To: Registration.md).
+See [registration docs](/registration/README.md).
 
 ## Childcare Coordinator
 
