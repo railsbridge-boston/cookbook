@@ -17,6 +17,7 @@ Create a draft of the registration page.
 * Update any necessary information on the event page, such as description,
 sponsors, start/end times, etc.
 * Open up and [announce registration](announcing-registration.md).
+* Create an external event link on BridgeTroll (https://www.bridgetroll.org/external_events/new). The external link should be to eventbrite so that there is a single source of truth list of attendees. If you receive an "you are not authorized" error message when going to this link, ask Melissa to give you external event link creation permissions. 
 
 Plan to spend 30-60 minutes per day on the RBB email account after registration
 opens; we have some [answers to FAQs](faqs.md).
