@@ -3,7 +3,7 @@
 **How many spots can we offer?**
 
 Ideally every seat will be filled, but it's challenging. There are always
-cancellations - many of which happen on Friday. Generally speaking, we've been
+cancellations. Generally speaking, we've been
 seeing 50% of the signups + 90% of all volunteers (including organizers)
 actually show up.
 
