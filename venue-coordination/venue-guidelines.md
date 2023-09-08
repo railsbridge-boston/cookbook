@@ -6,10 +6,9 @@
 
 |Day|Time|
 |---|---|
-|Friday|6:00pm-9:30pm|
 |Saturday|9:00am-5:30pm|
 
-Both days include an extra 30 minutes on the bookends of the timeframe for catering deliveries, setup, and teardown.
+This includes an extra 30 minutes on the bookends of the timeframe for catering deliveries, setup, and teardown.
 
 ### Criteria to ask when looking for a space
 

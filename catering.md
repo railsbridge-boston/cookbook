@@ -7,7 +7,7 @@ event. We typically do the following, based on 50-60 people (students, organizer
 
 Here's what to do:
 * Place catering orders about 1.5 weeks ahead of the workshop.
-* Delivery times might be roughly: Friday 6:30pm, Saturday 8:45am, Saturday 11:30am
+* Delivery times might be roughly: Saturday 8:45am, Saturday 11:30am
 * Ask caterer when they want to be paid, e.g. on delivery, after the event, etc.
 * Make sure we cover those who have dietary restrictions. Dietary restrictions
 are a question on the registration form.
@@ -57,15 +57,10 @@ purchase amount depending on the venue. Use the RailsBridge Boston Bridge
 Foundry debit card.
 
 ## Dietary restrictions & food allergies
+
 Label food so that people with dietary restrictions & food allergies can easily identify food they can eat. Try to set food up to not cross contaminate.
 
-## Friday night: pizza and drinks - ~$500
-
-Cost: ~$500
-
-* Try to find a pizza shop that can do a vegan pizza and a gluten-free pizza. 
-* Make sure at least one salad is both gluten and dairy-free.
-* Be at the venue when the delivery arrives before Friday night.
+# Example catering orders / costs
 
 ## Saturday daytime: breakfast, snacks, lunch - ~$1,500
 * AM coffee and breakfast: Haley House, Flour Bakery have worked in the past
