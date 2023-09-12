@@ -38,12 +38,13 @@ ALSO NOTE: Some of this interface is somewhat confusing and possibly unclear sin
 
 First, sign in to Mailchimp.
 
-1. Click "Create" in the top right of the dashboard
-2. Select "Email Campaign" and go to the next step
-3. Ensure "Regular" is selected from the choices on top
-4. Title the list "June 2015 (or whatever month/year) Workshop Announcement"
-5. Go to next step
-6. Enter/confirm the campaign details.
+1. Click "See all campaigns" 
+2. Click "Create new" in the top right of the dashboard
+3. Select "Email Campaign" and go to the next step
+4. Ensure "Regular" is selected from the choices on top
+5. Title the list "June 2015 (or whatever month/year) Workshop Announcement"
+6. Go to next step
+7. Enter/confirm the campaign details.
   1. Recipients: Tell me about the next RailsBridge Boston Workshop
   2. Segment or Tag: All subscribers on list
   3. Personalize the `To:` field: `*|FNAME|*`
