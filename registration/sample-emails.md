@@ -8,7 +8,6 @@ We're looking forward to seeing you! Here are a few additional details.
 
 When:
 
-- Friday, 6PM. Pizza will be served.
 - Saturday, 9:30AM. Breakfast and lunch will be served.
 
 Bring:

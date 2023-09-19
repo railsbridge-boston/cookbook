@@ -17,12 +17,7 @@ need. From the pool of applicants, we try our best to do the following:
 * Select a diverse set of TAs that'd represent different backgrounds such as
 technical experience, gender, etc.
 
-## Friday
-
-Remind the TAs about the kind of conduct we expect and how to talk to new
-programmers. Look at our [Friday TA pep talk](giving-the-pep-talk.md#friday).
-
 ## Saturday
 
-Remind the TAs again about the kind of conduct we expect and how to talk to new
+Remind the TAs about the kind of conduct we expect and how to talk to new
 programmers. Look at our [Saturday TA pep talk](giving-the-pep-talk.md#saturday).

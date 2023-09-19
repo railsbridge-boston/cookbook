@@ -9,7 +9,7 @@
   themselves to the students.
 * Confirm the schedule with the lead organizer.
 
-## The beginning of the workshop and installfest
+## The beginning of the workshop
 
 * Make sure the internet password is visible.
 * Point out where the bathrooms are to the students.

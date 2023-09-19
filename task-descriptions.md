@@ -5,7 +5,6 @@
 * [Workshop MC](#workshop-mc)
 * [Photography](#photography)
 * [Curriculum](#curriculum)
-* [Installfest](#installfest)
 * [Teaching Staff](#teaching-staff)
 * [e-books and Giveaways](#e-books-and-giveaways)
 * [Sponsorships](#sponsorships)
@@ -69,32 +68,12 @@ Time commitment: part or all of the workshop; selecting && emailing photos after
 * Coordinate a full walk-through of the curriculum on each platform with the TAs.
  * Pay particular attention to the versions of all software used.
 
-## Installfest
-Time commitment: be at workshop Friday night, ~5 hours prep the week before
-
-The Installfest is a time dedicated to help students install the software needed
-for the workshop onto their laptops.
-
-The coordinator:
-* Reviews installation instructions.
-* Makes sure the virtual machine image is online and up to date
-* Makes sure that all the flash drives contain the software we'll need.
-* Makes sure that the flash drives are brought to both days of the workshop.
-* Is the main point of contact at the workshop if there are any question or issues.
-
-Other notes:
-* You do not have to be an expert on every OS, but be aware of which TAs are
-knowledgeable about troubleshooting issues for each OS.
-* You will know in advance as to what hardware the students will be bringing, so
-prepare for coverage accordingly.
-
 ## Teaching Staff
 
 * Recruit around 25-30 awesome teaching assistants, and people to give all the
 mini-lectures.
 * Give the TAs tips on how to do their job well.
-* Tell them to prep by going through the Saturday curriculum and the Virtual
-Machine version of the Installfest for their operating system.
+* Tell them to prep by going through the Saturday curriculum.
 
 ## e-books and Giveaways
 

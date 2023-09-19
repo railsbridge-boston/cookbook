@@ -14,7 +14,6 @@ Here's a list of roles that are involved in organizing a workshop:
 * Sponsorship Coordinator
 * TA Coordinator
 * Child Care Coordinator
-* Installfest Coordinator
 * MC
 
 A summary of each role's responsibilities can be found [here](/overview-of-roles.md).
@@ -41,22 +40,13 @@ more information, see [this document](/catering.md).
 
 ## 1 week before
 
-### Installfest Coordinator
-
-Make sure the docs are updated and any changes to Installfest VMs are live on
-the website.
-
-Run the [spoon-building
-script](https://github.com/railsbridge-boston/spoon-builder) to update the
-download files.
-
 ### MC
 
 Prepare a slide deck with:
 
 * Sponsor logos
-* Link to Friday/Saturday Google docs
-* Schedule for Friday/Saturday
+* Link to Saturday Google docs
+* Schedule for Saturday
 
 We have sample slide decks in [the MC directory](/mc).
 We have a more detailed outline for MCing [here](/mc/mc-tips.md).

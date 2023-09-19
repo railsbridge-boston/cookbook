@@ -3,7 +3,6 @@
 * [Lead Organizers](#lead-organizers)
 * [Marketing Coordinator](#marketing-coordinator)
 * [Workshop MC](#workshop-mc)
-* [Installfest Expert](#installfest-expert)
 * [Volunteer Coordinator](#volunteer-coordinator)
 * [Sponsorship Coordinator](#sponsorship-coordinator)
 * [Venue Coordinator](#venue-coordinator)
@@ -50,17 +49,6 @@ the workshop.
 * Provide overview of workshop.
 * Keep an eye on time and make sure we're moving things along.
 
-## Installfest Expert
-
-**Time commitment:** 1-2 hours per week (starting 2-3 weeks before workshop) +
-Friday night of workshop.
-
-**Responsibilities:**
-
-* Keep all flash drives up-to-date with required software (including virtual machine image).
-* Review installation instructions.
-* Serve as main point of contact for questions about software installation.
-
 ## Volunteer Coordinator
 
 **Time commitment:** 3-4 hours per week + entire workshop. Starts 3 weeks before the workshop.
@@ -70,7 +58,6 @@ Friday night of workshop.
 * Recruit TAs and review their applications.
 * Select TAs to present mini lectures.
 * Organize TA onboarding sessions and presentation dry-runs.
-* Work with Installfest Expert to ensure TAs knowhow to handle common problems.
 * Serve as the main point of contact for questions about the curriculum.
 
 ## Sponsorship Coordinator

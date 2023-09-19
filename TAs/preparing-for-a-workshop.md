@@ -4,11 +4,7 @@ First off though, thanks for volunteering and making this happen. Over the years
 of running these workshops, we've consistently gotten feedback on how amazing
 the TA's were. We're very excited to have you be a part of this experience.
 
-For machine set-up on Friday, please review the installfest guide so you'll be
-prepared to help our students: http://docs.railsbridgeboston.org/installfest
-
-More importantly, please familiarize yourself with the Saturday curriculum:
-* Ruby: http://docs.railsbridgeboston.org/ruby/
+Please familiarize yourself with the curriculum:
 * Rails: http://docs.railsbridgeboston.org/intro-to-rails/
 
 We recommend that you go through the steps at least once and build everything
