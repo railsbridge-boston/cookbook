@@ -72,3 +72,11 @@ First, sign in to Mailchimp.
 ## Twitter
 
 Sign in to Twitter and tweet about the workshop, linking to the event page.
+
+## Craigslist
+
+You can post an event under the community pages in Craigslist: Boston -> Community, then pick a category (perhaps "events" or "classes"). Here's an example:
+
+![image](https://github.com/railsbridge-boston/cookbook/assets/222655/1c782277-689f-446d-9461-7d077a997988)
+
+
