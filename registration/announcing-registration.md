@@ -75,8 +75,13 @@ Sign in to Twitter and tweet about the workshop, linking to the event page.
 
 ## Craigslist
 
-You can post an event under the community pages in Craigslist: Boston -> Community, then pick a category (perhaps "events" or "classes"). Here's an example:
+You can post an event under the community pages in Craigslist: Boston -> Community, then pick a category (perhaps "events" or "classes"). 
+
+Here's an example post:
 
 ![image](https://github.com/railsbridge-boston/cookbook/assets/222655/1c782277-689f-446d-9461-7d077a997988)
 
+You should post from a registered craigslist account so you can log in weekly and "renew" the listing so it appears on the index page again: 
+![image](https://github.com/railsbridge-boston/cookbook/assets/222655/5fd52b40-ffbf-4e1c-90db-ebd1237c7299)
 
+If you don't do this, it will disappear entirely from the site in a few days.
