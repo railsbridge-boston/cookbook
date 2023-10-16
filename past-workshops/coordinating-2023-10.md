@@ -1,11 +1,11 @@
 # October 2023 Workshop
 
-Dates: October 21
-Location: Microsoft NERD
+* Dates: October 21
+* Location: Microsoft NERD
 
 ## Volunteers
 
-* Peter Cai
+* Peter Cai (Codespaces curriculum)
 * Melissa Xie (Venue, catering)
 * Jackie MA (Registration)
 * Rachel Adler (Teaching staff)
@@ -15,3 +15,7 @@ Location: Microsoft NERD
 ### TAs
 
 * TBD
+
+## Notes
+
+Rebooting after a hiatus. We consolidated down to one day by rewriting the curriculum to use Codespaces, removing installfest day.
