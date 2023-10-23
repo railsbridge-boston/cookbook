@@ -63,30 +63,6 @@ Give them 2-3 days to respond to you.
 Use Sitter City to find a sitter that would accommodate the children that need
 care. Be sure to coordinate how payment will work with the sitter.
 
-## Friday Night (everyone)
-
-#### MC
-
-* Welcome everyone
-* Brief intro of what to expect this weekend
-* Thank sponsors
-  * show logos
-  * give special "shout outs" to any organizations that are sponsoring any
-    specific portion of the weekend, e.g. a whole meal, the whole workshop, the
-    after-party, etc.
-  * have sponsor representatives do an intro
-* TA introductions - name and what they do
-* Go over the plan for the night
-  * point them to the pages with instructions
-  * make sure the TAs are evenly distributed across the room, especially
-    according to OSes
-* Go over any other logistics - e.g. where the bathrooms are, what's off limits
-  (like anything in the venue kitchen), etc.
-* Announce that photography will be taking place for social media and marketing
-  purposes. Remind people that red dots are available at the sign-in desk.
-
-For more details go [here](/mc/mc-tips.md).
-
 #### Catering Coordinator
 
 * Be at the venue when the delivery arrives before Friday night.
@@ -95,20 +71,15 @@ For more details go [here](/mc/mc-tips.md).
 
 #### MC
 
-* Re-welcome everyone
+* Welcome everyone
 * Go over the plan for the day
-* Thank sponsors again
-* Remind about photography and the red stickers again
+* Go over any other logistics - e.g. where the bathrooms are, what's off limits
+  (like anything in the venue kitchen), etc.
+* Thank sponsors
+* Remind about photography and the red stickers
 * Have TAs form small groups
 * Announce meals
-* Mention after-party - how to get there, what is covered, who's sponsoring
 * Lead or encourage frequent stretching in between sections
 * Talk about next steps
 * Encourage connecting with TAs and other attendees
 
-#### After-party
-
-We offer the first round of drinks and appetizers, which typically costs about
-$700, based on 30-40 of the 80-90 attending. Feel free to add another round of
-drinks or more food as the budget allows. We paty for the food and drinks on
-that day, directly to the bar.
