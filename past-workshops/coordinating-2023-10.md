@@ -7,7 +7,7 @@
 
 * Peter Cai (Codespaces curriculum)
 * Melissa Xie (Venue, catering)
-* Jackie MA (Registration)
+* Jackie MA (Registration, marketing)
 * Rachel Adler (Teaching staff)
 * Margaret Parsa (Schedule, curriculum, childcare)
 * Robert Morris (Photography)
