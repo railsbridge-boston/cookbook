@@ -9,12 +9,14 @@
 * Melissa Xie (Venue, catering)
 * Jackie MA (Registration)
 * Rachel Adler (Teaching staff)
-* Margaret Parsa (Schedule & curriculum)
+* Margaret Parsa (Schedule, curriculum, childcare)
 * Robert Morris (Photography)
 
 ### TAs
 
-* TBD
+* Nicholas Alberts (MC)
+* Justin Kenyon
+* Braulio Carreno
 
 ## Notes
 
