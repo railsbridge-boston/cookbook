@@ -15,16 +15,21 @@ Ensure the dates for all of the order confirmation text are correct too.
 
 ## RailsBridge Boston website
 
-To show the registration link on the website, we need to set the following
-environment variables:
+To show the registration link on the website, we need to update the environment variables: 
 
-|variable|value|
-|---|---|
-|`HIDE_REGISTRATION`|`true`/`false`|
-|`EVENT_URL`|registration URL|
-|`VENUE_NAME`|name of the venue|
-|`VENUE_ADDRESS`|full address of venue|
-|`VENUE_MAP_URL`|Google Maps embed URL|
+1. Go to fly.io and login to your personal account 
+2. On the upper left select Boston Railsbridge
+3. Select `Secrets` and edit the below variables
+  |variable|value|
+  |---|---|
+  |`HIDE_REGISTRATION`|`true`/`false`|
+  |`EVENT_URL`|registration URL|
+  |`VENUE_NAME`|name of the venue|
+  |`VENUE_ADDRESS`|full address of venue|
+  |`VENUE_MAP_URL`|Google Maps embed URL|
+5. Open a Command line and type `fly auth login` 
+6. cd into the github repo https://github.com/railsbridge-boston/railsbridgeboston_dot_org
+7.  Type `fly deploy  -a rbb-dot-org` in the command line 
 
 ## MailChimp
 
