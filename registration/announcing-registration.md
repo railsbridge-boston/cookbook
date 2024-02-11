@@ -29,7 +29,10 @@ To show the registration link on the website, we need to update the environment 
   |`VENUE_MAP_URL`|Google Maps embed URL|
 5. Open a Command line and type `fly auth login` 
 6. cd into the github repo https://github.com/railsbridge-boston/railsbridgeboston_dot_org
-7.  Type `fly deploy  -a rbb-dot-org` in the command line 
+7.  Type `fly deploy  -a rbb-dot-org` in the command line
+8.  Navigate to https://www.railsbridgeboston.org/ and click "Register for the workshop" and verify it goes to the proper registration site. 
+<img width="477" alt="Screenshot 2024-02-11 at 2 14 08 PM" src="https://github.com/railsbridge-boston/cookbook/assets/29336370/998d3454-5093-437b-b7ed-3623f091743a">
+
 
 ## MailChimp
 
