@@ -49,9 +49,10 @@ First, sign in to Mailchimp.
   2. Segment or Tag: All subscribers on list
   3. Personalize the `To:` field: `*|FNAME|*`
   4. From Name: RailsBridge Boston / railsbridgeboston@gmail.com
-  5. Email subject: Next RailsBridge Boston Workshop - Applications Open
+  5. Email subject: Register NOW for the next programming workshop - [Insert date]
+  6. Preview Text: Register NOW for the next programming workshop - [Insert date]
 9. Click `Design Email` to go to next step
-10. Select "Saved Templates"
+10. Select "Previous Templates" and choose the most recent event
 11. Select the appropriate workshop announcement template, i.e. either the Ruby
    one or the Rails one.
 12. Select the corresponding section to edit the following information:
