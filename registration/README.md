@@ -9,6 +9,7 @@ Create a draft of the registration page.
   - If possible, make it private or [password-protected][protected Eventbrite]
   so that it cannot be publicly-accessed. Be sure to share the password with
   the other coordinators. :)
+Create a new poster to market (the pages template is in the google drive under the last event) 
 
 [protected Eventbrite]: eventbrite.md#making-the-event-private
 
