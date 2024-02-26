@@ -18,6 +18,9 @@ Create a new poster to market (the pages template is in the google drive under t
 * Update any necessary information on the event page, such as description,
 sponsors, start/end times, etc.
 * Open up and [announce registration](announcing-registration.md).
+* Have all organizers and TAs sign up with the hidden volunteer link (www.eventbrite.com/e/[EVENT_ID]/?discount=volunteer-invite)
+<img width="1040" alt="Screenshot 2024-02-26 at 3 15 35 PM" src="https://github.com/railsbridge-boston/cookbook/assets/29336370/d15e0d6a-3570-4c58-af05-6a578fe8fd02">
+
 * Create an external event link on BridgeTroll (https://www.bridgetroll.org/external_events/new). The external link should be to eventbrite so that there is a single source of truth list of attendees. If you receive an "you are not authorized" error message when going to this link, ask Melissa to give you external event link creation permissions. 
 
 Plan to spend 30-60 minutes per day on the RBB email account after registration
