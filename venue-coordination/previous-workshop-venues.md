@@ -29,9 +29,9 @@ details you can use to fill it out:
 you a copy or some links to these documents.)
 1. Share any special instructions with the Catering coordinator if applicable.
 1. Provide a list of names of everyone who might be there.
-  * It must be submitted 3 days in advance so they can distribute it to the
+  * It must be submitted 1 week in advance so they can distribute it to the
 security desk.
-  * Include all attendees, coordinators, TAs, guests, and waitlist names.
+  * Include all attendees, coordinators, volunteers, childcare providers, guests, and waitlist names.
   * Include the name of the event, dates, and room in the body of the email. For
 example.:
 
