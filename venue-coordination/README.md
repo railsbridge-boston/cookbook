@@ -23,7 +23,7 @@ Some places to check for events are:
 
 ## 3-5 months before (or as soon as a date is set)
 
-Find a workshop venue based on [these guidelines](venue-guidelines.md#workshop-venue).
+Find a workshop venue based on [these guidelines](venue-guidelines.md#workshop-venue). Work with registration to coordinate an end date for RSVPs (so we have time to finalize attendee lists for security and food planning, etc).
 
 ## 2 weeks before
 
@@ -31,13 +31,14 @@ Find and book a bar/restaurant for our after-party at least a week in advance.
 See the guidelines
 [here](/venue-coordination/README.md#after-party-venue-guidelines).
 
-## 2 days before
+## 2-7 days before
 
-If the venue has building security, they generally require a list of everyone who will be attending the workshop. If so, do the following:
+If the venue has building security, they generally require a list of everyone who will be attending the workshop (Note - Microsoft NERD requires *1 week* ahead of time!). If so, do the following:
 
 * Get a guest list from the Registration Coordinator. This should include:
   - students
   - volunteers (TAs, organizers, etc.)
   - sponsors
   - child care providers
+  - children?
 * Send your venue Point of Contact the guest list.
