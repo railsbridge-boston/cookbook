@@ -38,7 +38,7 @@ example.:
       > RailsBridge Boston event on 10/4/2013 from 7pm-10pm and 10/5/2013
       > from 9:30am-5pm in the Mann/Sampson/Paul room
 
-  * Send the list as a file attachment to nerdconf@microsoft.com, CC'ing whoever
+  * Send the list as a file attachment to msneconf@microsoft.com, CC'ing whoever
 our NERD Center contact is and the lead coordinators.
 1. Make sure that we tell everyone to bring a photo ID, per NERD Center policy.
 
