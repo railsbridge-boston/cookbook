@@ -41,4 +41,4 @@ If the venue has building security, they generally require a list of everyone wh
   - sponsors
   - child care providers
   - children?
-* Send your venue Point of Contact the guest list.
+* Send your venue Point of Contact the guest list. Also ask them ahead of time how to get on the wifi the day of the event (some venues like NERD require an event-specific password to be generated).
