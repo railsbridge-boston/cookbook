@@ -19,7 +19,7 @@
 
 ## Notes
 
-Smaller turnout than usual with a reversion-to-mean of about 50% no-shows. 
+Smaller turnout than usual with a reversion-to-mean of about 50% no-shows. First event where NERD required 1 week notice of all attendee names, which means we had to turn away students in the days leading up to the event.
 
 Minor morning snag as there was no on-site event coordinator to help with wifi access.
 
