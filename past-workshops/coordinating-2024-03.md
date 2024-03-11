@@ -1,0 +1,26 @@
+# March 2024 Workshop
+
+* Dates: March 9, 2024
+* Location: Microsoft NERD
+
+## Volunteers
+
+* Jackie Ma (Event Lead, Registration, marketing)
+* Melissa Xie (catering)
+* Margaret Parsa (MC, TA coordination)
+* Robert Morris (Photography, survey)
+* Peter Cai (Venue)
+
+### TAs
+
+* Nicholas Alberts (presentation overhaul)
+* Michael Chu
+* Barbara Atkins
+
+## Notes
+
+Smaller turnout than usual with a reversion-to-mean of about 50% no-shows. 
+
+Minor morning snag as there was no on-site event coordinator to help with wifi access.
+
+Nick Alberts helped consolidate down the presentation content to reduce unintended redundancy, which improved on the previous workshop (in October, presenters independently created their slide decks without coordinating with anyone else).
