@@ -5,10 +5,10 @@
 
 ## Volunteers
 
-* Jackie Ma (Event Lead, Registration, marketing)
+* Jackie Ma (Event lead, registration, marketing, event checkin)
 * Melissa Xie (catering)
-* Margaret Parsa (MC, TA coordination)
-* Robert Morris (Photography, survey)
+* Margaret Parsa (MC, TA recruitment, TA training)
+* Robert Morris (Photography, event checkin, survey)
 * Peter Cai (Venue)
 
 ### TAs
